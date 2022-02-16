@@ -1,0 +1,998 @@
+16 февр. 2022 14:02:36,399  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:02:36,400  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:02:36,401  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 14:02:36,459  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 14:02:36,459  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:04:38,318  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:04:38,318  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:04:38,319  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 февр. 2022 14:04:38,499  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+16 февр. 2022 14:04:38,499  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 февр. 2022 14:04:38,499  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:04:39,022  INFO PausableInvocationsLogger - Acquiring request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:04:39,022  INFO PausableInvocationsLogger - Acquired request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:04:39,023  INFO PausableInvocationsLogger - Run invocation: [f: Security.findNavigator, m: gainedFocus, rq: 0]
+16 февр. 2022 14:04:39,024  INFO PausableInvocationsLogger - Invocation [f: Security.findNavigator, m: gainedFocus, rq: 0] finished
+16 февр. 2022 14:04:39,025  INFO PausableInvocationsLogger - Releasing request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:05:22,849  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:05:22,850  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:05:22,851  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 14:05:22,923  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 14:05:22,923  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:06:46,068  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:06:46,068  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:06:46,068  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 февр. 2022 14:06:46,257  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+16 февр. 2022 14:06:46,258  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 февр. 2022 14:06:46,258  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:06:46,358  INFO PausableInvocationsLogger - Acquiring request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:06:46,358  INFO PausableInvocationsLogger - Acquired request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:06:46,359  INFO PausableInvocationsLogger - Run invocation: [f: Security.findNavigator, m: gainedFocus, rq: 0]
+16 февр. 2022 14:06:46,360  INFO PausableInvocationsLogger - Invocation [f: Security.findNavigator, m: gainedFocus, rq: 0] finished
+16 февр. 2022 14:06:46,360  INFO PausableInvocationsLogger - Releasing request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:11:17,573  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:11:17,574  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:11:17,575  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 14:11:17,652  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 14:11:17,653  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:11:31,746  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:11:31,746  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:11:31,747  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 14:11:31,755  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 14:11:31,755  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:13:22,625  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:13:22,626  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:13:22,628  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 14:13:22,714  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 14:13:22,714  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:14:17,173  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:14:17,174  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:14:17,176  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 14:14:17,273  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 14:14:17,273  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:14:24,100  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:14:24,100  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:14:24,100  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 февр. 2022 14:14:24,241  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+16 февр. 2022 14:14:24,242  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 февр. 2022 14:14:24,242  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:14:24,339  INFO PausableInvocationsLogger - Acquiring request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:14:24,339  INFO PausableInvocationsLogger - Acquired request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:14:24,340  INFO PausableInvocationsLogger - Run invocation: [f: Security.findNavigator, m: gainedFocus, rq: 0]
+16 февр. 2022 14:14:24,341  INFO PausableInvocationsLogger - Invocation [f: Security.findNavigator, m: gainedFocus, rq: 0] finished
+16 февр. 2022 14:14:24,341  INFO PausableInvocationsLogger - Releasing request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:16:04,289  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:16:04,291  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:16:04,292  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 14:16:04,374  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 14:16:04,374  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 14:16:11,178  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:16:11,178  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:16:11,178  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 февр. 2022 14:16:11,311  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+16 февр. 2022 14:16:11,311  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 февр. 2022 14:16:11,311  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 14:16:11,387  INFO PausableInvocationsLogger - Acquiring request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:16:11,387  INFO PausableInvocationsLogger - Acquired request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 14:16:11,387  INFO PausableInvocationsLogger - Run invocation: [f: Security.findNavigator, m: gainedFocus, rq: 0]
+16 февр. 2022 14:16:11,388  INFO PausableInvocationsLogger - Invocation [f: Security.findNavigator, m: gainedFocus, rq: 0] finished
+16 февр. 2022 14:16:11,388  INFO PausableInvocationsLogger - Releasing request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 16:19:19,014  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:19:19,016  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:19:19,018  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 16:19:19,120  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 16:19:19,121  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:19:26,304  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:19:26,304  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:19:26,306  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 16:19:26,314  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 16:19:26,314  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:19:40,210  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:19:40,210  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:19:40,211  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 16:19:40,220  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 16:19:40,220  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:20:13,688  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:20:13,688  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 16:20:13,689  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 16:20:13,697  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 16:20:13,697  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:35:54,697  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:35:54,698  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:35:54,700  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 19:35:54,798  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 19:35:54,798  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:36:14,175  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:36:14,175  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:36:14,175  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 февр. 2022 19:36:14,256  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+16 февр. 2022 19:36:14,256  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 февр. 2022 19:36:14,256  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:36:14,319  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.Test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:36:14,319  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.Test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:36:14,320  INFO PausableInvocationsLogger - Run invocation: [f: Training.Test, m: gainedFocus, rq: 0]
+16 февр. 2022 19:36:14,321  INFO PausableInvocationsLogger - Invocation [f: Training.Test, m: gainedFocus, rq: 0] finished
+16 февр. 2022 19:36:14,321  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.Test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:36:15,555  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.Test, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:36:15,555  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.Test, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:36:15,555  INFO PausableInvocationsLogger - Run invocation: [f: Training.Test, m: executeEventAction, rq: 1]
+16 февр. 2022 19:36:15,557  INFO PausableInvocationsLogger - Interaction [f: Training.Test, m: executeEventAction, rq: 1] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 5, ext: false]]
+16 февр. 2022 19:36:17,232  INFO PausableInvocationsLogger - Interaction [f: Training.Test, m: executeEventAction, rq: 1] resumed after userInteraction: [null]
+16 февр. 2022 19:36:17,233  INFO PausableInvocationsLogger - Invocation [f: Training.Test, m: executeEventAction, rq: 1] finished
+16 февр. 2022 19:36:17,233  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.Test, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:36:20,546  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.Test, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:36:20,546  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.Test, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:36:20,546  INFO PausableInvocationsLogger - Run invocation: [f: Training.Test, m: executeEventAction, rq: 2]
+16 февр. 2022 19:36:20,547  INFO PausableInvocationsLogger - Interaction [f: Training.Test, m: executeEventAction, rq: 2] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 5, ext: false]]
+16 февр. 2022 19:36:21,867  INFO PausableInvocationsLogger - Interaction [f: Training.Test, m: executeEventAction, rq: 2] resumed after userInteraction: [null]
+16 февр. 2022 19:36:21,867  INFO PausableInvocationsLogger - Invocation [f: Training.Test, m: executeEventAction, rq: 2] finished
+16 февр. 2022 19:36:21,868  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.Test, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:36:31,616  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.Test, m: executeEventAction, rq: 3] for request #3
+16 февр. 2022 19:36:31,616  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.Test, m: executeEventAction, rq: 3] for request #3
+16 февр. 2022 19:36:31,616  INFO PausableInvocationsLogger - Run invocation: [f: Training.Test, m: executeEventAction, rq: 3]
+16 февр. 2022 19:36:31,617  INFO PausableInvocationsLogger - Interaction [f: Training.Test, m: executeEventAction, rq: 3] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 5, ext: false]]
+16 февр. 2022 19:36:32,676  INFO PausableInvocationsLogger - Interaction [f: Training.Test, m: executeEventAction, rq: 3] resumed after userInteraction: [null]
+16 февр. 2022 19:36:32,677  INFO PausableInvocationsLogger - Invocation [f: Training.Test, m: executeEventAction, rq: 3] finished
+16 февр. 2022 19:36:32,677  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.Test, m: executeEventAction, rq: 3] for request #3
+16 февр. 2022 19:38:29,605  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:38:29,606  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:38:29,608  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 19:38:29,705  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 19:38:29,705  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:38:31,704  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:38:31,704  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:38:31,704  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 февр. 2022 19:38:31,781  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+16 февр. 2022 19:38:31,781  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 февр. 2022 19:38:31,781  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:38:31,836  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.Test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:38:31,836  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.Test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:38:31,837  INFO PausableInvocationsLogger - Run invocation: [f: Training.Test, m: gainedFocus, rq: 0]
+16 февр. 2022 19:38:31,839  INFO PausableInvocationsLogger - Invocation [f: Training.Test, m: gainedFocus, rq: 0] finished
+16 февр. 2022 19:38:31,839  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.Test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:38:32,854  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.Test, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:38:32,854  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.Test, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:38:32,855  INFO PausableInvocationsLogger - Run invocation: [f: Training.Test, m: executeEventAction, rq: 1]
+16 февр. 2022 19:38:32,857  INFO PausableInvocationsLogger - Interaction [f: Training.Test, m: executeEventAction, rq: 1] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 5, ext: false]]
+16 февр. 2022 19:38:34,564  INFO PausableInvocationsLogger - Interaction [f: Training.Test, m: executeEventAction, rq: 1] resumed after userInteraction: [null]
+16 февр. 2022 19:38:34,567  INFO PausableInvocationsLogger - Interaction [f: Training.Test, m: executeEventAction, rq: 1] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: -1, ext: false]]
+16 февр. 2022 19:38:35,917  INFO PausableInvocationsLogger - Interaction [f: Training.Test, m: executeEventAction, rq: 1] resumed after userInteraction: [null]
+16 февр. 2022 19:38:35,918  INFO PausableInvocationsLogger - Invocation [f: Training.Test, m: executeEventAction, rq: 1] finished
+16 февр. 2022 19:38:35,918  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.Test, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:48:27,947  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:48:27,949  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:48:27,950  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 19:48:28,026  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 19:48:28,026  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:48:29,318  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:48:29,318  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:48:29,318  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 февр. 2022 19:48:29,449  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+16 февр. 2022 19:48:29,449  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 февр. 2022 19:48:29,450  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:48:29,656  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:48:29,657  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:48:29,657  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 0]
+16 февр. 2022 19:48:29,659  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 0] finished
+16 февр. 2022 19:48:29,659  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:48:31,625  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:48:31,625  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:48:31,625  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 1]
+16 февр. 2022 19:48:31,641  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 1] finished
+16 февр. 2022 19:48:31,641  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:48:31,652  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 2] for request #2
+16 февр. 2022 19:48:31,652  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 2] for request #2
+16 февр. 2022 19:48:31,652  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 2]
+16 февр. 2022 19:48:31,653  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 2] finished
+16 февр. 2022 19:48:31,653  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 2] for request #2
+16 февр. 2022 19:48:34,461  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 3] for request #3
+16 февр. 2022 19:48:34,461  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 3] for request #3
+16 февр. 2022 19:48:34,461  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 3]
+16 февр. 2022 19:48:34,470  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 3] finished
+16 февр. 2022 19:48:34,470  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 3] for request #3
+16 февр. 2022 19:48:34,479  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 4] for request #4
+16 февр. 2022 19:48:34,479  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 4] for request #4
+16 февр. 2022 19:48:34,479  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 4]
+16 февр. 2022 19:48:34,480  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 4] finished
+16 февр. 2022 19:48:34,480  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 4] for request #4
+16 февр. 2022 19:48:34,952  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 5] for request #5
+16 февр. 2022 19:48:34,952  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 5] for request #5
+16 февр. 2022 19:48:34,952  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 5]
+16 февр. 2022 19:48:34,960  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 5] finished
+16 февр. 2022 19:48:34,961  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 5] for request #5
+16 февр. 2022 19:48:34,970  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 6] for request #6
+16 февр. 2022 19:48:34,970  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 6] for request #6
+16 февр. 2022 19:48:34,970  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 6]
+16 февр. 2022 19:48:34,970  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 6] finished
+16 февр. 2022 19:48:34,970  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 6] for request #6
+16 февр. 2022 19:48:35,318  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 7] for request #7
+16 февр. 2022 19:48:35,318  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 7] for request #7
+16 февр. 2022 19:48:35,318  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 7]
+16 февр. 2022 19:48:35,324  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 7] finished
+16 февр. 2022 19:48:35,324  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 7] for request #7
+16 февр. 2022 19:48:35,333  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 8] for request #8
+16 февр. 2022 19:48:35,333  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 8] for request #8
+16 февр. 2022 19:48:35,334  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 8]
+16 февр. 2022 19:48:35,334  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 8] finished
+16 февр. 2022 19:48:35,334  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 8] for request #8
+16 февр. 2022 19:48:35,993  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 9] for request #9
+16 февр. 2022 19:48:35,993  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 9] for request #9
+16 февр. 2022 19:48:35,993  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 9]
+16 февр. 2022 19:48:35,998  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 9] finished
+16 февр. 2022 19:48:35,999  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 9] for request #9
+16 февр. 2022 19:48:36,006  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 10] for request #10
+16 февр. 2022 19:48:36,006  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 10] for request #10
+16 февр. 2022 19:48:36,006  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 10]
+16 февр. 2022 19:48:36,007  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 10] finished
+16 февр. 2022 19:48:36,007  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 10] for request #10
+16 февр. 2022 19:48:36,467  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 11] for request #11
+16 февр. 2022 19:48:36,467  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 11] for request #11
+16 февр. 2022 19:48:36,467  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 11]
+16 февр. 2022 19:48:36,472  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 11] finished
+16 февр. 2022 19:48:36,472  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 11] for request #11
+16 февр. 2022 19:48:36,480  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 12] for request #12
+16 февр. 2022 19:48:36,480  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 12] for request #12
+16 февр. 2022 19:48:36,480  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 12]
+16 февр. 2022 19:48:36,481  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 12] finished
+16 февр. 2022 19:48:36,481  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 12] for request #12
+16 февр. 2022 19:48:36,848  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 13] for request #13
+16 февр. 2022 19:48:36,848  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 13] for request #13
+16 февр. 2022 19:48:36,848  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 13]
+16 февр. 2022 19:48:36,855  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 13] finished
+16 февр. 2022 19:48:36,855  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 13] for request #13
+16 февр. 2022 19:48:36,863  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 14] for request #14
+16 февр. 2022 19:48:36,863  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 14] for request #14
+16 февр. 2022 19:48:36,863  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 14]
+16 февр. 2022 19:48:36,864  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 14] finished
+16 февр. 2022 19:48:36,864  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 14] for request #14
+16 февр. 2022 19:48:37,094  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 15] for request #15
+16 февр. 2022 19:48:37,094  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 15] for request #15
+16 февр. 2022 19:48:37,094  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 15]
+16 февр. 2022 19:48:37,100  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 15] finished
+16 февр. 2022 19:48:37,100  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 15] for request #15
+16 февр. 2022 19:48:37,108  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 16] for request #16
+16 февр. 2022 19:48:37,108  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 16] for request #16
+16 февр. 2022 19:48:37,108  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 16]
+16 февр. 2022 19:48:37,108  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 16] finished
+16 февр. 2022 19:48:37,108  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 16] for request #16
+16 февр. 2022 19:48:37,290  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 17] for request #17
+16 февр. 2022 19:48:37,290  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 17] for request #17
+16 февр. 2022 19:48:37,290  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 17]
+16 февр. 2022 19:48:37,296  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 17] finished
+16 февр. 2022 19:48:37,296  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 17] for request #17
+16 февр. 2022 19:48:37,305  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 18] for request #18
+16 февр. 2022 19:48:37,305  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 18] for request #18
+16 февр. 2022 19:48:37,305  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 18]
+16 февр. 2022 19:48:37,306  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 18] finished
+16 февр. 2022 19:48:37,306  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 18] for request #18
+16 февр. 2022 19:48:37,488  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 19] for request #19
+16 февр. 2022 19:48:37,488  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 19] for request #19
+16 февр. 2022 19:48:37,488  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 19]
+16 февр. 2022 19:48:37,493  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 19] finished
+16 февр. 2022 19:48:37,493  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 19] for request #19
+16 февр. 2022 19:48:37,500  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 20] for request #20
+16 февр. 2022 19:48:37,500  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 20] for request #20
+16 февр. 2022 19:48:37,500  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 20]
+16 февр. 2022 19:48:37,501  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 20] finished
+16 февр. 2022 19:48:37,501  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 20] for request #20
+16 февр. 2022 19:48:37,667  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 21] for request #21
+16 февр. 2022 19:48:37,667  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 21] for request #21
+16 февр. 2022 19:48:37,667  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 21]
+16 февр. 2022 19:48:37,673  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 21] finished
+16 февр. 2022 19:48:37,673  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 21] for request #21
+16 февр. 2022 19:48:37,681  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 22] for request #22
+16 февр. 2022 19:48:37,681  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 22] for request #22
+16 февр. 2022 19:48:37,681  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 22]
+16 февр. 2022 19:48:37,681  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 22] finished
+16 февр. 2022 19:48:37,682  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 22] for request #22
+16 февр. 2022 19:48:37,978  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 23] for request #23
+16 февр. 2022 19:48:37,978  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 23] for request #23
+16 февр. 2022 19:48:37,978  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 23]
+16 февр. 2022 19:48:37,984  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 23] finished
+16 февр. 2022 19:48:37,984  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 23] for request #23
+16 февр. 2022 19:48:37,993  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 24] for request #24
+16 февр. 2022 19:48:37,993  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 24] for request #24
+16 февр. 2022 19:48:37,993  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 24]
+16 февр. 2022 19:48:37,993  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 24] finished
+16 февр. 2022 19:48:37,993  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 24] for request #24
+16 февр. 2022 19:48:43,611  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 25] for request #25
+16 февр. 2022 19:48:43,611  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 25] for request #25
+16 февр. 2022 19:48:43,611  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 25]
+16 февр. 2022 19:48:43,617  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 25] finished
+16 февр. 2022 19:48:43,617  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 25] for request #25
+16 февр. 2022 19:48:43,624  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 26] for request #26
+16 февр. 2022 19:48:43,624  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 26] for request #26
+16 февр. 2022 19:48:43,625  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 26]
+16 февр. 2022 19:48:43,625  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 26] finished
+16 февр. 2022 19:48:43,625  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 26] for request #26
+16 февр. 2022 19:48:44,034  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 27] for request #27
+16 февр. 2022 19:48:44,034  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 27] for request #27
+16 февр. 2022 19:48:44,034  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 27]
+16 февр. 2022 19:48:44,039  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 27] finished
+16 февр. 2022 19:48:44,039  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 27] for request #27
+16 февр. 2022 19:48:44,047  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 28] for request #28
+16 февр. 2022 19:48:44,047  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 28] for request #28
+16 февр. 2022 19:48:44,047  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 28]
+16 февр. 2022 19:48:44,047  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 28] finished
+16 февр. 2022 19:48:44,047  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 28] for request #28
+16 февр. 2022 19:48:44,346  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 29] for request #29
+16 февр. 2022 19:48:44,346  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 29] for request #29
+16 февр. 2022 19:48:44,346  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 29]
+16 февр. 2022 19:48:44,353  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 29] finished
+16 февр. 2022 19:48:44,353  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 29] for request #29
+16 февр. 2022 19:48:44,363  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 30] for request #30
+16 февр. 2022 19:48:44,363  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 30] for request #30
+16 февр. 2022 19:48:44,363  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 30]
+16 февр. 2022 19:48:44,364  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 30] finished
+16 февр. 2022 19:48:44,364  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 30] for request #30
+16 февр. 2022 19:48:44,913  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 31] for request #31
+16 февр. 2022 19:48:44,913  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 31] for request #31
+16 февр. 2022 19:48:44,913  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 31]
+16 февр. 2022 19:48:44,920  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 31] finished
+16 февр. 2022 19:48:44,920  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 31] for request #31
+16 февр. 2022 19:48:44,929  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 32] for request #32
+16 февр. 2022 19:48:44,929  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 32] for request #32
+16 февр. 2022 19:48:44,929  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 32]
+16 февр. 2022 19:48:44,930  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 32] finished
+16 февр. 2022 19:48:44,930  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 32] for request #32
+16 февр. 2022 19:48:45,580  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 33] for request #33
+16 февр. 2022 19:48:45,580  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 33] for request #33
+16 февр. 2022 19:48:45,580  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 33]
+16 февр. 2022 19:48:45,587  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 33] finished
+16 февр. 2022 19:48:45,587  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 33] for request #33
+16 февр. 2022 19:48:45,595  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 34] for request #34
+16 февр. 2022 19:48:45,595  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 34] for request #34
+16 февр. 2022 19:48:45,595  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 34]
+16 февр. 2022 19:48:45,595  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 34] finished
+16 февр. 2022 19:48:45,595  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 34] for request #34
+16 февр. 2022 19:48:46,156  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 35] for request #35
+16 февр. 2022 19:48:46,156  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 35] for request #35
+16 февр. 2022 19:48:46,156  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 35]
+16 февр. 2022 19:48:46,161  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 35] finished
+16 февр. 2022 19:48:46,161  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 35] for request #35
+16 февр. 2022 19:48:46,168  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 36] for request #36
+16 февр. 2022 19:48:46,168  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 36] for request #36
+16 февр. 2022 19:48:46,168  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 36]
+16 февр. 2022 19:48:46,169  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 36] finished
+16 февр. 2022 19:48:46,169  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 36] for request #36
+16 февр. 2022 19:48:46,749  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 37] for request #37
+16 февр. 2022 19:48:46,749  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 37] for request #37
+16 февр. 2022 19:48:46,749  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 37]
+16 февр. 2022 19:48:46,755  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 37] finished
+16 февр. 2022 19:48:46,755  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 37] for request #37
+16 февр. 2022 19:48:46,763  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 38] for request #38
+16 февр. 2022 19:48:46,763  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 38] for request #38
+16 февр. 2022 19:48:46,763  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 38]
+16 февр. 2022 19:48:46,763  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 38] finished
+16 февр. 2022 19:48:46,763  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 38] for request #38
+16 февр. 2022 19:48:47,750  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 39] for request #39
+16 февр. 2022 19:48:47,750  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 39] for request #39
+16 февр. 2022 19:48:47,750  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 39]
+16 февр. 2022 19:48:47,756  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 39] finished
+16 февр. 2022 19:48:47,757  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 39] for request #39
+16 февр. 2022 19:48:47,764  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 40] for request #40
+16 февр. 2022 19:48:47,764  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 40] for request #40
+16 февр. 2022 19:48:47,764  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 40]
+16 февр. 2022 19:48:47,765  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 40] finished
+16 февр. 2022 19:48:47,765  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 40] for request #40
+16 февр. 2022 19:48:48,269  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 41] for request #41
+16 февр. 2022 19:48:48,269  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 41] for request #41
+16 февр. 2022 19:48:48,269  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 41]
+16 февр. 2022 19:48:48,275  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 41] finished
+16 февр. 2022 19:48:48,275  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 41] for request #41
+16 февр. 2022 19:48:48,282  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 42] for request #42
+16 февр. 2022 19:48:48,283  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 42] for request #42
+16 февр. 2022 19:48:48,283  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 42]
+16 февр. 2022 19:48:48,283  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 42] finished
+16 февр. 2022 19:48:48,283  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 42] for request #42
+16 февр. 2022 19:48:48,424  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 43] for request #43
+16 февр. 2022 19:48:48,424  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 43] for request #43
+16 февр. 2022 19:48:48,424  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 43]
+16 февр. 2022 19:48:48,430  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 43] finished
+16 февр. 2022 19:48:48,430  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 43] for request #43
+16 февр. 2022 19:48:48,438  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 44] for request #44
+16 февр. 2022 19:48:48,438  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 44] for request #44
+16 февр. 2022 19:48:48,438  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 44]
+16 февр. 2022 19:48:48,439  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 44] finished
+16 февр. 2022 19:48:48,439  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 44] for request #44
+16 февр. 2022 19:48:48,587  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 45] for request #45
+16 февр. 2022 19:48:48,587  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 45] for request #45
+16 февр. 2022 19:48:48,587  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 45]
+16 февр. 2022 19:48:48,593  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 45] finished
+16 февр. 2022 19:48:48,593  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 45] for request #45
+16 февр. 2022 19:48:48,600  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 46] for request #46
+16 февр. 2022 19:48:48,600  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 46] for request #46
+16 февр. 2022 19:48:48,600  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 46]
+16 февр. 2022 19:48:48,601  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 46] finished
+16 февр. 2022 19:48:48,601  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 46] for request #46
+16 февр. 2022 19:48:48,760  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 47] for request #47
+16 февр. 2022 19:48:48,760  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 47] for request #47
+16 февр. 2022 19:48:48,760  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 47]
+16 февр. 2022 19:48:48,766  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 47] finished
+16 февр. 2022 19:48:48,766  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 47] for request #47
+16 февр. 2022 19:48:48,773  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 48] for request #48
+16 февр. 2022 19:48:48,773  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 48] for request #48
+16 февр. 2022 19:48:48,773  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 48]
+16 февр. 2022 19:48:48,773  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 48] finished
+16 февр. 2022 19:48:48,773  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 48] for request #48
+16 февр. 2022 19:48:48,924  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 49] for request #49
+16 февр. 2022 19:48:48,924  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 49] for request #49
+16 февр. 2022 19:48:48,924  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 49]
+16 февр. 2022 19:48:48,929  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 49] finished
+16 февр. 2022 19:48:48,929  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 49] for request #49
+16 февр. 2022 19:48:48,937  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 50] for request #50
+16 февр. 2022 19:48:48,937  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 50] for request #50
+16 февр. 2022 19:48:48,937  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 50]
+16 февр. 2022 19:48:48,938  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 50] finished
+16 февр. 2022 19:48:48,938  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 50] for request #50
+16 февр. 2022 19:48:49,098  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 51] for request #51
+16 февр. 2022 19:48:49,098  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 51] for request #51
+16 февр. 2022 19:48:49,098  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 51]
+16 февр. 2022 19:48:49,103  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 51] finished
+16 февр. 2022 19:48:49,103  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 51] for request #51
+16 февр. 2022 19:48:49,110  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 52] for request #52
+16 февр. 2022 19:48:49,111  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 52] for request #52
+16 февр. 2022 19:48:49,111  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 52]
+16 февр. 2022 19:48:49,111  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 52] finished
+16 февр. 2022 19:48:49,111  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 52] for request #52
+16 февр. 2022 19:48:49,277  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 53] for request #53
+16 февр. 2022 19:48:49,277  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 53] for request #53
+16 февр. 2022 19:48:49,277  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 53]
+16 февр. 2022 19:48:49,285  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 53] finished
+16 февр. 2022 19:48:49,285  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 53] for request #53
+16 февр. 2022 19:48:49,295  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 54] for request #54
+16 февр. 2022 19:48:49,295  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 54] for request #54
+16 февр. 2022 19:48:49,296  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 54]
+16 февр. 2022 19:48:49,296  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 54] finished
+16 февр. 2022 19:48:49,296  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 54] for request #54
+16 февр. 2022 19:48:49,675  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 55] for request #55
+16 февр. 2022 19:48:49,675  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 55] for request #55
+16 февр. 2022 19:48:49,675  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 55]
+16 февр. 2022 19:48:49,681  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 55] finished
+16 февр. 2022 19:48:49,681  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 55] for request #55
+16 февр. 2022 19:48:49,688  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 56] for request #56
+16 февр. 2022 19:48:49,688  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 56] for request #56
+16 февр. 2022 19:48:49,688  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 56]
+16 февр. 2022 19:48:49,688  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 56] finished
+16 февр. 2022 19:48:49,688  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 56] for request #56
+16 февр. 2022 19:48:52,403  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 57] for request #57
+16 февр. 2022 19:48:52,403  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 57] for request #57
+16 февр. 2022 19:48:52,403  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 57]
+16 февр. 2022 19:48:52,409  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 57] finished
+16 февр. 2022 19:48:52,409  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 57] for request #57
+16 февр. 2022 19:48:52,418  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 58] for request #58
+16 февр. 2022 19:48:52,418  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 58] for request #58
+16 февр. 2022 19:48:52,418  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 58]
+16 февр. 2022 19:48:52,419  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 58] finished
+16 февр. 2022 19:48:52,419  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 58] for request #58
+16 февр. 2022 19:48:52,905  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 59] for request #59
+16 февр. 2022 19:48:52,905  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 59] for request #59
+16 февр. 2022 19:48:52,905  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 59]
+16 февр. 2022 19:48:52,910  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 59] finished
+16 февр. 2022 19:48:52,910  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 59] for request #59
+16 февр. 2022 19:48:52,917  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 60] for request #60
+16 февр. 2022 19:48:52,918  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 60] for request #60
+16 февр. 2022 19:48:52,918  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 60]
+16 февр. 2022 19:48:52,918  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 60] finished
+16 февр. 2022 19:48:52,918  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 60] for request #60
+16 февр. 2022 19:48:53,366  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 61] for request #61
+16 февр. 2022 19:48:53,366  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 61] for request #61
+16 февр. 2022 19:48:53,366  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 61]
+16 февр. 2022 19:48:53,375  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 61] finished
+16 февр. 2022 19:48:53,375  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 61] for request #61
+16 февр. 2022 19:48:53,382  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 62] for request #62
+16 февр. 2022 19:48:53,382  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 62] for request #62
+16 февр. 2022 19:48:53,382  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 62]
+16 февр. 2022 19:48:53,383  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 62] finished
+16 февр. 2022 19:48:53,383  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 62] for request #62
+16 февр. 2022 19:48:53,712  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 63] for request #63
+16 февр. 2022 19:48:53,712  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 63] for request #63
+16 февр. 2022 19:48:53,712  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 63]
+16 февр. 2022 19:48:53,717  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 63] finished
+16 февр. 2022 19:48:53,717  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 63] for request #63
+16 февр. 2022 19:48:53,724  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 64] for request #64
+16 февр. 2022 19:48:53,724  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 64] for request #64
+16 февр. 2022 19:48:53,724  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 64]
+16 февр. 2022 19:48:53,725  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 64] finished
+16 февр. 2022 19:48:53,725  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 64] for request #64
+16 февр. 2022 19:48:54,000  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 65] for request #65
+16 февр. 2022 19:48:54,000  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 65] for request #65
+16 февр. 2022 19:48:54,000  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 65]
+16 февр. 2022 19:48:54,006  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 65] finished
+16 февр. 2022 19:48:54,007  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 65] for request #65
+16 февр. 2022 19:48:54,013  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 66] for request #66
+16 февр. 2022 19:48:54,013  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 66] for request #66
+16 февр. 2022 19:48:54,014  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 66]
+16 февр. 2022 19:48:54,014  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 66] finished
+16 февр. 2022 19:48:54,014  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 66] for request #66
+16 февр. 2022 19:48:54,225  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 67] for request #67
+16 февр. 2022 19:48:54,225  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 67] for request #67
+16 февр. 2022 19:48:54,225  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 67]
+16 февр. 2022 19:48:54,231  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 67] finished
+16 февр. 2022 19:48:54,231  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 67] for request #67
+16 февр. 2022 19:48:54,238  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 68] for request #68
+16 февр. 2022 19:48:54,238  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 68] for request #68
+16 февр. 2022 19:48:54,238  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 68]
+16 февр. 2022 19:48:54,239  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 68] finished
+16 февр. 2022 19:48:54,239  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 68] for request #68
+16 февр. 2022 19:48:54,413  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 69] for request #69
+16 февр. 2022 19:48:54,414  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 69] for request #69
+16 февр. 2022 19:48:54,414  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 69]
+16 февр. 2022 19:48:54,419  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 69] finished
+16 февр. 2022 19:48:54,419  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 69] for request #69
+16 февр. 2022 19:48:54,429  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 70] for request #70
+16 февр. 2022 19:48:54,429  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 70] for request #70
+16 февр. 2022 19:48:54,429  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 70]
+16 февр. 2022 19:48:54,430  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 70] finished
+16 февр. 2022 19:48:54,430  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 70] for request #70
+16 февр. 2022 19:48:54,604  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 71] for request #71
+16 февр. 2022 19:48:54,604  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 71] for request #71
+16 февр. 2022 19:48:54,604  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 71]
+16 февр. 2022 19:48:54,609  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 71] finished
+16 февр. 2022 19:48:54,610  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 71] for request #71
+16 февр. 2022 19:48:54,620  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 72] for request #72
+16 февр. 2022 19:48:54,620  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 72] for request #72
+16 февр. 2022 19:48:54,620  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 72]
+16 февр. 2022 19:48:54,621  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 72] finished
+16 февр. 2022 19:48:54,621  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 72] for request #72
+16 февр. 2022 19:48:54,776  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 73] for request #73
+16 февр. 2022 19:48:54,776  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 73] for request #73
+16 февр. 2022 19:48:54,776  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 73]
+16 февр. 2022 19:48:54,782  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 73] finished
+16 февр. 2022 19:48:54,782  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 73] for request #73
+16 февр. 2022 19:48:54,791  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 74] for request #74
+16 февр. 2022 19:48:54,791  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 74] for request #74
+16 февр. 2022 19:48:54,791  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 74]
+16 февр. 2022 19:48:54,792  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 74] finished
+16 февр. 2022 19:48:54,792  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 74] for request #74
+16 февр. 2022 19:48:54,945  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 75] for request #75
+16 февр. 2022 19:48:54,945  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 75] for request #75
+16 февр. 2022 19:48:54,946  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 75]
+16 февр. 2022 19:48:54,952  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 75] finished
+16 февр. 2022 19:48:54,952  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 75] for request #75
+16 февр. 2022 19:48:54,962  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 76] for request #76
+16 февр. 2022 19:48:54,962  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 76] for request #76
+16 февр. 2022 19:48:54,962  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 76]
+16 февр. 2022 19:48:54,963  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 76] finished
+16 февр. 2022 19:48:54,963  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 76] for request #76
+16 февр. 2022 19:48:57,768  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 77] for request #77
+16 февр. 2022 19:48:57,768  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 77] for request #77
+16 февр. 2022 19:48:57,768  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 77]
+16 февр. 2022 19:48:57,774  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 77] finished
+16 февр. 2022 19:48:57,775  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 77] for request #77
+16 февр. 2022 19:48:57,786  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 78] for request #78
+16 февр. 2022 19:48:57,786  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 78] for request #78
+16 февр. 2022 19:48:57,786  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 78]
+16 февр. 2022 19:48:57,786  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 78] finished
+16 февр. 2022 19:48:57,786  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 78] for request #78
+16 февр. 2022 19:48:58,040  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 79] for request #79
+16 февр. 2022 19:48:58,040  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 79] for request #79
+16 февр. 2022 19:48:58,040  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 79]
+16 февр. 2022 19:48:58,046  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 79] finished
+16 февр. 2022 19:48:58,046  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 79] for request #79
+16 февр. 2022 19:48:58,057  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 80] for request #80
+16 февр. 2022 19:48:58,057  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 80] for request #80
+16 февр. 2022 19:48:58,057  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 80]
+16 февр. 2022 19:48:58,058  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 80] finished
+16 февр. 2022 19:48:58,058  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 80] for request #80
+16 февр. 2022 19:48:58,208  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 81] for request #81
+16 февр. 2022 19:48:58,208  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 81] for request #81
+16 февр. 2022 19:48:58,208  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 81]
+16 февр. 2022 19:48:58,213  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 81] finished
+16 февр. 2022 19:48:58,213  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 81] for request #81
+16 февр. 2022 19:48:58,221  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 82] for request #82
+16 февр. 2022 19:48:58,221  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 82] for request #82
+16 февр. 2022 19:48:58,221  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 82]
+16 февр. 2022 19:48:58,222  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 82] finished
+16 февр. 2022 19:48:58,222  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 82] for request #82
+16 февр. 2022 19:48:58,401  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 83] for request #83
+16 февр. 2022 19:48:58,401  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 83] for request #83
+16 февр. 2022 19:48:58,401  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 83]
+16 февр. 2022 19:48:58,407  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 83] finished
+16 февр. 2022 19:48:58,407  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 83] for request #83
+16 февр. 2022 19:48:58,414  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 84] for request #84
+16 февр. 2022 19:48:58,414  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 84] for request #84
+16 февр. 2022 19:48:58,415  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 84]
+16 февр. 2022 19:48:58,415  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 84] finished
+16 февр. 2022 19:48:58,416  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 84] for request #84
+16 февр. 2022 19:48:58,582  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 85] for request #85
+16 февр. 2022 19:48:58,582  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 85] for request #85
+16 февр. 2022 19:48:58,582  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 85]
+16 февр. 2022 19:48:58,587  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 85] finished
+16 февр. 2022 19:48:58,587  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 85] for request #85
+16 февр. 2022 19:48:58,594  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 86] for request #86
+16 февр. 2022 19:48:58,594  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 86] for request #86
+16 февр. 2022 19:48:58,594  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 86]
+16 февр. 2022 19:48:58,595  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 86] finished
+16 февр. 2022 19:48:58,595  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 86] for request #86
+16 февр. 2022 19:48:58,746  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 87] for request #87
+16 февр. 2022 19:48:58,746  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 87] for request #87
+16 февр. 2022 19:48:58,746  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 87]
+16 февр. 2022 19:48:58,751  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 87] finished
+16 февр. 2022 19:48:58,751  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 87] for request #87
+16 февр. 2022 19:48:58,759  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 88] for request #88
+16 февр. 2022 19:48:58,759  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 88] for request #88
+16 февр. 2022 19:48:58,759  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 88]
+16 февр. 2022 19:48:58,760  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 88] finished
+16 февр. 2022 19:48:58,760  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 88] for request #88
+16 февр. 2022 19:48:58,912  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 89] for request #89
+16 февр. 2022 19:48:58,912  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 89] for request #89
+16 февр. 2022 19:48:58,912  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 89]
+16 февр. 2022 19:48:58,917  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 89] finished
+16 февр. 2022 19:48:58,917  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 89] for request #89
+16 февр. 2022 19:48:58,925  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 90] for request #90
+16 февр. 2022 19:48:58,925  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 90] for request #90
+16 февр. 2022 19:48:58,925  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 90]
+16 февр. 2022 19:48:58,925  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 90] finished
+16 февр. 2022 19:48:58,925  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 90] for request #90
+16 февр. 2022 19:48:59,105  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 91] for request #91
+16 февр. 2022 19:48:59,105  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 91] for request #91
+16 февр. 2022 19:48:59,105  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 91]
+16 февр. 2022 19:48:59,110  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 91] finished
+16 февр. 2022 19:48:59,110  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 91] for request #91
+16 февр. 2022 19:48:59,117  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 92] for request #92
+16 февр. 2022 19:48:59,117  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 92] for request #92
+16 февр. 2022 19:48:59,117  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 92]
+16 февр. 2022 19:48:59,118  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 92] finished
+16 февр. 2022 19:48:59,118  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 92] for request #92
+16 февр. 2022 19:48:59,288  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 93] for request #93
+16 февр. 2022 19:48:59,288  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 93] for request #93
+16 февр. 2022 19:48:59,288  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 93]
+16 февр. 2022 19:48:59,295  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 93] finished
+16 февр. 2022 19:48:59,295  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 93] for request #93
+16 февр. 2022 19:48:59,303  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 94] for request #94
+16 февр. 2022 19:48:59,303  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 94] for request #94
+16 февр. 2022 19:48:59,303  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 94]
+16 февр. 2022 19:48:59,304  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 94] finished
+16 февр. 2022 19:48:59,304  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 94] for request #94
+16 февр. 2022 19:48:59,466  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 95] for request #95
+16 февр. 2022 19:48:59,466  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 95] for request #95
+16 февр. 2022 19:48:59,466  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 95]
+16 февр. 2022 19:48:59,472  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 95] finished
+16 февр. 2022 19:48:59,472  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 95] for request #95
+16 февр. 2022 19:48:59,479  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 96] for request #96
+16 февр. 2022 19:48:59,479  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 96] for request #96
+16 февр. 2022 19:48:59,479  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 96]
+16 февр. 2022 19:48:59,479  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 96] finished
+16 февр. 2022 19:48:59,479  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 96] for request #96
+16 февр. 2022 19:48:59,642  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 97] for request #97
+16 февр. 2022 19:48:59,642  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 97] for request #97
+16 февр. 2022 19:48:59,642  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 97]
+16 февр. 2022 19:48:59,647  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 97] finished
+16 февр. 2022 19:48:59,647  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 97] for request #97
+16 февр. 2022 19:48:59,656  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 98] for request #98
+16 февр. 2022 19:48:59,656  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 98] for request #98
+16 февр. 2022 19:48:59,656  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 98]
+16 февр. 2022 19:48:59,656  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 98] finished
+16 февр. 2022 19:48:59,656  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 98] for request #98
+16 февр. 2022 19:48:59,820  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 99] for request #99
+16 февр. 2022 19:48:59,820  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 99] for request #99
+16 февр. 2022 19:48:59,820  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 99]
+16 февр. 2022 19:48:59,825  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 99] finished
+16 февр. 2022 19:48:59,825  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 99] for request #99
+16 февр. 2022 19:48:59,833  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 100] for request #100
+16 февр. 2022 19:48:59,833  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 100] for request #100
+16 февр. 2022 19:48:59,833  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 100]
+16 февр. 2022 19:48:59,833  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 100] finished
+16 февр. 2022 19:48:59,833  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 100] for request #100
+16 февр. 2022 19:48:59,980  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 101] for request #101
+16 февр. 2022 19:48:59,980  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 101] for request #101
+16 февр. 2022 19:48:59,980  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 101]
+16 февр. 2022 19:48:59,986  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 101] finished
+16 февр. 2022 19:48:59,986  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 101] for request #101
+16 февр. 2022 19:48:59,994  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 102] for request #102
+16 февр. 2022 19:48:59,994  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 102] for request #102
+16 февр. 2022 19:48:59,994  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 102]
+16 февр. 2022 19:48:59,994  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 102] finished
+16 февр. 2022 19:48:59,994  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 102] for request #102
+16 февр. 2022 19:49:00,148  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 103] for request #103
+16 февр. 2022 19:49:00,149  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 103] for request #103
+16 февр. 2022 19:49:00,149  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 103]
+16 февр. 2022 19:49:00,156  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 103] finished
+16 февр. 2022 19:49:00,156  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 103] for request #103
+16 февр. 2022 19:49:00,166  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 104] for request #104
+16 февр. 2022 19:49:00,166  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 104] for request #104
+16 февр. 2022 19:49:00,166  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 104]
+16 февр. 2022 19:49:00,167  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 104] finished
+16 февр. 2022 19:49:00,167  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 104] for request #104
+16 февр. 2022 19:49:00,318  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 105] for request #105
+16 февр. 2022 19:49:00,318  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 105] for request #105
+16 февр. 2022 19:49:00,318  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 105]
+16 февр. 2022 19:49:00,324  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 105] finished
+16 февр. 2022 19:49:00,324  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 105] for request #105
+16 февр. 2022 19:49:00,336  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 106] for request #106
+16 февр. 2022 19:49:00,337  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 106] for request #106
+16 февр. 2022 19:49:00,337  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 106]
+16 февр. 2022 19:49:00,337  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 106] finished
+16 февр. 2022 19:49:00,337  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 106] for request #106
+16 февр. 2022 19:49:00,487  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 107] for request #107
+16 февр. 2022 19:49:00,487  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 107] for request #107
+16 февр. 2022 19:49:00,487  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 107]
+16 февр. 2022 19:49:00,494  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 107] finished
+16 февр. 2022 19:49:00,494  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 107] for request #107
+16 февр. 2022 19:49:00,506  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 108] for request #108
+16 февр. 2022 19:49:00,506  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 108] for request #108
+16 февр. 2022 19:49:00,506  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 108]
+16 февр. 2022 19:49:00,507  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 108] finished
+16 февр. 2022 19:49:00,507  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 108] for request #108
+16 февр. 2022 19:49:00,666  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 109] for request #109
+16 февр. 2022 19:49:00,666  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 109] for request #109
+16 февр. 2022 19:49:00,667  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 109]
+16 февр. 2022 19:49:00,673  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 109] finished
+16 февр. 2022 19:49:00,673  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 109] for request #109
+16 февр. 2022 19:49:00,682  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 110] for request #110
+16 февр. 2022 19:49:00,682  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 110] for request #110
+16 февр. 2022 19:49:00,682  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 110]
+16 февр. 2022 19:49:00,683  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 110] finished
+16 февр. 2022 19:49:00,683  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 110] for request #110
+16 февр. 2022 19:49:00,838  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 111] for request #111
+16 февр. 2022 19:49:00,838  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 111] for request #111
+16 февр. 2022 19:49:00,838  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 111]
+16 февр. 2022 19:49:00,845  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 111] finished
+16 февр. 2022 19:49:00,845  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 111] for request #111
+16 февр. 2022 19:49:00,856  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 112] for request #112
+16 февр. 2022 19:49:00,856  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 112] for request #112
+16 февр. 2022 19:49:00,856  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 112]
+16 февр. 2022 19:49:00,856  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 112] finished
+16 февр. 2022 19:49:00,856  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 112] for request #112
+16 февр. 2022 19:49:01,007  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 113] for request #113
+16 февр. 2022 19:49:01,007  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 113] for request #113
+16 февр. 2022 19:49:01,007  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 113]
+16 февр. 2022 19:49:01,013  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 113] finished
+16 февр. 2022 19:49:01,013  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 113] for request #113
+16 февр. 2022 19:49:01,022  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 114] for request #114
+16 февр. 2022 19:49:01,022  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 114] for request #114
+16 февр. 2022 19:49:01,022  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 114]
+16 февр. 2022 19:49:01,022  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 114] finished
+16 февр. 2022 19:49:01,022  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 114] for request #114
+16 февр. 2022 19:49:01,180  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 115] for request #115
+16 февр. 2022 19:49:01,180  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 115] for request #115
+16 февр. 2022 19:49:01,180  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 115]
+16 февр. 2022 19:49:01,185  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 115] finished
+16 февр. 2022 19:49:01,185  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 115] for request #115
+16 февр. 2022 19:49:01,196  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 116] for request #116
+16 февр. 2022 19:49:01,196  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 116] for request #116
+16 февр. 2022 19:49:01,196  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 116]
+16 февр. 2022 19:49:01,196  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 116] finished
+16 февр. 2022 19:49:01,196  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 116] for request #116
+16 февр. 2022 19:49:01,357  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 117] for request #117
+16 февр. 2022 19:49:01,357  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 117] for request #117
+16 февр. 2022 19:49:01,357  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 117]
+16 февр. 2022 19:49:01,363  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 117] finished
+16 февр. 2022 19:49:01,364  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 117] for request #117
+16 февр. 2022 19:49:01,373  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 118] for request #118
+16 февр. 2022 19:49:01,373  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 118] for request #118
+16 февр. 2022 19:49:01,373  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 118]
+16 февр. 2022 19:49:01,374  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 118] finished
+16 февр. 2022 19:49:01,374  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 118] for request #118
+16 февр. 2022 19:49:01,532  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 119] for request #119
+16 февр. 2022 19:49:01,532  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 119] for request #119
+16 февр. 2022 19:49:01,532  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 119]
+16 февр. 2022 19:49:01,538  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 119] finished
+16 февр. 2022 19:49:01,538  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 119] for request #119
+16 февр. 2022 19:49:01,546  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 120] for request #120
+16 февр. 2022 19:49:01,546  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 120] for request #120
+16 февр. 2022 19:49:01,546  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 120]
+16 февр. 2022 19:49:01,546  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 120] finished
+16 февр. 2022 19:49:01,546  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 120] for request #120
+16 февр. 2022 19:49:01,698  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 121] for request #121
+16 февр. 2022 19:49:01,698  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 121] for request #121
+16 февр. 2022 19:49:01,698  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 121]
+16 февр. 2022 19:49:01,703  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 121] finished
+16 февр. 2022 19:49:01,703  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 121] for request #121
+16 февр. 2022 19:49:01,713  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 122] for request #122
+16 февр. 2022 19:49:01,713  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 122] for request #122
+16 февр. 2022 19:49:01,713  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 122]
+16 февр. 2022 19:49:01,714  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 122] finished
+16 февр. 2022 19:49:01,714  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 122] for request #122
+16 февр. 2022 19:49:01,862  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 123] for request #123
+16 февр. 2022 19:49:01,862  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 123] for request #123
+16 февр. 2022 19:49:01,862  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 123]
+16 февр. 2022 19:49:01,867  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 123] finished
+16 февр. 2022 19:49:01,867  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 123] for request #123
+16 февр. 2022 19:49:01,875  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 124] for request #124
+16 февр. 2022 19:49:01,875  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 124] for request #124
+16 февр. 2022 19:49:01,875  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 124]
+16 февр. 2022 19:49:01,876  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 124] finished
+16 февр. 2022 19:49:01,876  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 124] for request #124
+16 февр. 2022 19:49:02,030  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 125] for request #125
+16 февр. 2022 19:49:02,030  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 125] for request #125
+16 февр. 2022 19:49:02,030  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 125]
+16 февр. 2022 19:49:02,036  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 125] finished
+16 февр. 2022 19:49:02,036  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 125] for request #125
+16 февр. 2022 19:49:02,045  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 126] for request #126
+16 февр. 2022 19:49:02,045  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 126] for request #126
+16 февр. 2022 19:49:02,045  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 126]
+16 февр. 2022 19:49:02,046  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 126] finished
+16 февр. 2022 19:49:02,046  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 126] for request #126
+16 февр. 2022 19:49:02,185  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 127] for request #127
+16 февр. 2022 19:49:02,186  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 127] for request #127
+16 февр. 2022 19:49:02,186  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 127]
+16 февр. 2022 19:49:02,191  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 127] finished
+16 февр. 2022 19:49:02,191  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 127] for request #127
+16 февр. 2022 19:49:02,199  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 128] for request #128
+16 февр. 2022 19:49:02,199  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 128] for request #128
+16 февр. 2022 19:49:02,199  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 128]
+16 февр. 2022 19:49:02,199  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 128] finished
+16 февр. 2022 19:49:02,200  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 128] for request #128
+16 февр. 2022 19:52:15,285  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:52:15,286  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:52:15,288  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 19:52:15,375  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 19:52:15,375  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:52:38,155  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:52:38,155  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:52:38,155  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 февр. 2022 19:52:38,280  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+16 февр. 2022 19:52:38,280  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 февр. 2022 19:52:38,280  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:52:38,383  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:52:38,383  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:52:38,384  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 0]
+16 февр. 2022 19:52:38,385  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 0] finished
+16 февр. 2022 19:52:38,386  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:52:39,308  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:52:39,308  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:52:39,308  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: executeEventAction, rq: 1]
+16 февр. 2022 19:52:39,336  INFO PausableInvocationsLogger - Interaction [f: Training.tests, m: executeEventAction, rq: 1] called pauseForUserInteraction: [FormClientAction[modalitType: DOCKED_MODAL]]
+16 февр. 2022 19:52:39,419  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:52:39,419  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:52:39,420  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 0]
+16 февр. 2022 19:52:39,421  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 0] finished
+16 февр. 2022 19:52:39,421  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:52:40,554  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: changePageSize, rq: 1] for request #1
+16 февр. 2022 19:52:40,554  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: changePageSize, rq: 1] for request #1
+16 февр. 2022 19:52:40,554  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: changePageSize, rq: 1]
+16 февр. 2022 19:52:40,554  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: changePageSize, rq: 1] finished
+16 февр. 2022 19:52:40,554  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: changePageSize, rq: 1] for request #1
+16 февр. 2022 19:52:45,573  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:52:45,573  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:52:45,573  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 2]
+16 февр. 2022 19:52:45,579  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 2] finished
+16 февр. 2022 19:52:45,580  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:52:49,594  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 3] for request #3
+16 февр. 2022 19:52:49,594  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 3] for request #3
+16 февр. 2022 19:52:49,594  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 3]
+16 февр. 2022 19:52:49,597  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 3] finished
+16 февр. 2022 19:52:49,597  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 3] for request #3
+16 февр. 2022 19:52:50,531  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 4] for request #4
+16 февр. 2022 19:52:50,531  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 4] for request #4
+16 февр. 2022 19:52:50,531  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 4]
+16 февр. 2022 19:52:50,535  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 4] finished
+16 февр. 2022 19:52:50,536  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 4] for request #4
+16 февр. 2022 19:52:52,386  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 5] for request #5
+16 февр. 2022 19:52:52,386  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 5] for request #5
+16 февр. 2022 19:52:52,386  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 5]
+16 февр. 2022 19:52:52,420  INFO PausableInvocationsLogger - Interaction [f: Training.test, m: executeEventAction, rq: 5] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+16 февр. 2022 19:52:52,431  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 5] finished
+16 февр. 2022 19:52:52,431  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 5] for request #5
+16 февр. 2022 19:52:56,548  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 6] for request #6
+16 февр. 2022 19:52:56,548  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 6] for request #6
+16 февр. 2022 19:52:56,548  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 6]
+16 февр. 2022 19:52:56,552  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 6] finished
+16 февр. 2022 19:52:56,553  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 6] for request #6
+16 февр. 2022 19:53:03,481  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 7] for request #7
+16 февр. 2022 19:53:03,481  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 7] for request #7
+16 февр. 2022 19:53:03,481  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 7]
+16 февр. 2022 19:53:03,485  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 7] finished
+16 февр. 2022 19:53:03,485  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 7] for request #7
+16 февр. 2022 19:53:04,828  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 8] for request #8
+16 февр. 2022 19:53:04,828  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 8] for request #8
+16 февр. 2022 19:53:04,828  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 8]
+16 февр. 2022 19:53:04,855  INFO PausableInvocationsLogger - Interaction [f: Training.test, m: executeEventAction, rq: 8] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+16 февр. 2022 19:53:04,861  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 8] finished
+16 февр. 2022 19:53:04,861  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 8] for request #8
+16 февр. 2022 19:53:26,396  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 9] for request #9
+16 февр. 2022 19:53:26,396  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 9] for request #9
+16 февр. 2022 19:53:26,396  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 9]
+16 февр. 2022 19:53:26,399  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 9] finished
+16 февр. 2022 19:53:26,399  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 9] for request #9
+16 февр. 2022 19:53:26,543  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: closedPressed, rq: 10] for request #10
+16 февр. 2022 19:53:26,543  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: closedPressed, rq: 10] for request #10
+16 февр. 2022 19:53:26,543  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: closedPressed, rq: 10]
+16 февр. 2022 19:53:26,544  INFO PausableInvocationsLogger - Interaction [f: Training.test, m: closedPressed, rq: 10] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@6ca5de35
+16 февр. 2022 19:53:26,546  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: closedPressed, rq: 10] finished
+16 февр. 2022 19:53:26,546  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: closedPressed, rq: 10] for request #10
+16 февр. 2022 19:53:26,562  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: gainedFocus, rq: 2] for request #2
+16 февр. 2022 19:53:26,564  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: gainedFocus, rq: 3] for request #3
+16 февр. 2022 19:53:26,567  INFO PausableInvocationsLogger - Interaction [f: Training.tests, m: executeEventAction, rq: 1] resumed after userInteraction: [null]
+16 февр. 2022 19:53:26,568  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: executeEventAction, rq: 1] finished
+16 февр. 2022 19:53:26,568  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: executeEventAction, rq: 1] for request #1
+16 февр. 2022 19:53:26,568  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: gainedFocus, rq: 2] for request #2
+16 февр. 2022 19:53:26,568  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 2]
+16 февр. 2022 19:53:26,569  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 2] finished
+16 февр. 2022 19:53:26,569  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 2] for request #2
+16 февр. 2022 19:53:26,569  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: gainedFocus, rq: 3] for request #3
+16 февр. 2022 19:53:26,569  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 3]
+16 февр. 2022 19:53:26,601  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 3] finished
+16 февр. 2022 19:53:26,601  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 3] for request #3
+16 февр. 2022 19:54:36,749  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:54:36,751  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:54:36,753  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 февр. 2022 19:54:36,875  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 февр. 2022 19:54:36,875  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+16 февр. 2022 19:54:44,347  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:54:44,347  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:54:44,348  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 февр. 2022 19:54:44,463  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+16 февр. 2022 19:54:44,463  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 февр. 2022 19:54:44,463  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+16 февр. 2022 19:54:44,559  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:54:44,559  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:54:44,559  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 0]
+16 февр. 2022 19:54:44,561  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 0] finished
+16 февр. 2022 19:54:44,561  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:54:45,680  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: changePageSize, rq: 1] for request #1
+16 февр. 2022 19:54:45,680  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: changePageSize, rq: 1] for request #1
+16 февр. 2022 19:54:45,680  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: changePageSize, rq: 1]
+16 февр. 2022 19:54:45,680  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: changePageSize, rq: 1] finished
+16 февр. 2022 19:54:45,681  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: changePageSize, rq: 1] for request #1
+16 февр. 2022 19:54:47,413  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:54:47,414  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:54:47,414  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: executeEventAction, rq: 2]
+16 февр. 2022 19:54:47,448  INFO PausableInvocationsLogger - Interaction [f: Training.tests, m: executeEventAction, rq: 2] called pauseForUserInteraction: [FormClientAction[modalitType: DOCKED_MODAL]]
+16 февр. 2022 19:54:47,495  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:54:47,495  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:54:47,496  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 0]
+16 февр. 2022 19:54:47,497  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 0] finished
+16 февр. 2022 19:54:47,497  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+16 февр. 2022 19:54:48,617  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: changePageSize, rq: 1] for request #1
+16 февр. 2022 19:54:48,617  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: changePageSize, rq: 1] for request #1
+16 февр. 2022 19:54:48,617  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: changePageSize, rq: 1]
+16 февр. 2022 19:54:48,618  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: changePageSize, rq: 1] finished
+16 февр. 2022 19:54:48,618  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: changePageSize, rq: 1] for request #1
+16 февр. 2022 19:54:52,071  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:54:52,071  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:54:52,071  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 2]
+16 февр. 2022 19:54:52,076  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: gainedFocus, rq: 3] for request #3
+16 февр. 2022 19:54:52,080  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 2] finished
+16 февр. 2022 19:54:52,080  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:54:53,081  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 3] for request #3
+16 февр. 2022 19:54:53,081  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 3] for request #3
+16 февр. 2022 19:54:53,082  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 3]
+16 февр. 2022 19:54:53,082  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 3] finished
+16 февр. 2022 19:54:53,082  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 3] for request #3
+16 февр. 2022 19:54:58,152  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 4] for request #4
+16 февр. 2022 19:54:58,152  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 4] for request #4
+16 февр. 2022 19:54:58,152  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 4]
+16 февр. 2022 19:54:58,157  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 4] finished
+16 февр. 2022 19:54:58,157  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 4] for request #4
+16 февр. 2022 19:55:00,202  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 5] for request #5
+16 февр. 2022 19:55:00,202  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 5] for request #5
+16 февр. 2022 19:55:00,202  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 5]
+16 февр. 2022 19:55:00,209  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 5] finished
+16 февр. 2022 19:55:00,210  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 5] for request #5
+16 февр. 2022 19:55:01,792  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 6] for request #6
+16 февр. 2022 19:55:01,792  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 6] for request #6
+16 февр. 2022 19:55:01,792  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 6]
+16 февр. 2022 19:55:01,828  INFO PausableInvocationsLogger - Interaction [f: Training.test, m: executeEventAction, rq: 6] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+16 февр. 2022 19:55:01,849  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 6] finished
+16 февр. 2022 19:55:01,849  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 6] for request #6
+16 февр. 2022 19:55:04,753  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 7] for request #7
+16 февр. 2022 19:55:04,754  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 7] for request #7
+16 февр. 2022 19:55:04,754  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 7]
+16 февр. 2022 19:55:04,754  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 7] finished
+16 февр. 2022 19:55:04,754  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 7] for request #7
+16 февр. 2022 19:55:04,862  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: closedPressed, rq: 8] for request #8
+16 февр. 2022 19:55:04,862  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: closedPressed, rq: 8] for request #8
+16 февр. 2022 19:55:04,862  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: closedPressed, rq: 8]
+16 февр. 2022 19:55:04,862  INFO PausableInvocationsLogger - Interaction [f: Training.test, m: closedPressed, rq: 8] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@30ef5bae
+16 февр. 2022 19:55:04,864  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: closedPressed, rq: 8] finished
+16 февр. 2022 19:55:04,864  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: closedPressed, rq: 8] for request #8
+16 февр. 2022 19:55:04,875  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: gainedFocus, rq: 4] for request #4
+16 февр. 2022 19:55:04,877  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: gainedFocus, rq: 5] for request #5
+16 февр. 2022 19:55:04,880  INFO PausableInvocationsLogger - Interaction [f: Training.tests, m: executeEventAction, rq: 2] resumed after userInteraction: [null]
+16 февр. 2022 19:55:04,882  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: executeEventAction, rq: 2] finished
+16 февр. 2022 19:55:04,882  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: executeEventAction, rq: 2] for request #2
+16 февр. 2022 19:55:04,882  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: gainedFocus, rq: 3] for request #3
+16 февр. 2022 19:55:04,882  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 3]
+16 февр. 2022 19:55:04,882  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 3] finished
+16 февр. 2022 19:55:04,882  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 3] for request #3
+16 февр. 2022 19:55:04,883  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: gainedFocus, rq: 4] for request #4
+16 февр. 2022 19:55:04,883  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 4]
+16 февр. 2022 19:55:04,883  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 4] finished
+16 февр. 2022 19:55:04,883  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 4] for request #4
+16 февр. 2022 19:55:04,883  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: gainedFocus, rq: 5] for request #5
+16 февр. 2022 19:55:04,883  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 5]
+16 февр. 2022 19:55:04,898  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 5] finished
+16 февр. 2022 19:55:04,898  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 5] for request #5

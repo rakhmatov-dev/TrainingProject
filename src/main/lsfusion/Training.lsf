@@ -1,3 +1,42 @@
 MODULE Training;
 
+REQUIRE System, Service, Backup, ProcessMonitor, Eval, Utils, Authentication, Security, Numerator, SystemEvents;
 
+addNumber 'Add' (INTEGER a, INTEGER b) = a + b;
+
+subNumber = a - b;
+
+add 'Add' () {
+    MESSAGE addNumber(2, 3);
+    MESSAGE subNumber(2, 3);
+}
+
+
+FORM Test
+    PROPERTIES add();
+
+NAVIGATOR {
+    NEW Test;
+}
+
+CLASS Test;
+testL = DATA LOCAL INTEGER (Test) MATERIALIZED;
+testM = DATA INTEGER (Test);
+
+FORM tests
+    OBJECTS t = Test
+    PROPERTIES(t) testL, testM
+    PROPERTIES(t) NEWSESSION NEW, DELETE
+    
+    LIST Test OBJECT t
+;
+
+FORM test
+    OBJECTS t = Test
+    PROPERTIES(t) testL, testM
+    EDIT Test OBJECT t
+;
+
+NAVIGATOR {
+    NEW tests;
+}
