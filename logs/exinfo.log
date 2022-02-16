@@ -1,0 +1,57 @@
+16 февр. 2022 14:00:17,339 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@390709109
+	at lsfusion.base.ExceptionUtils.getStackTrace(ExceptionUtils.java:30)
+	at lsfusion.server.physics.admin.log.ServerLoggers.exinfoLog(ServerLoggers.java:124)
+	at lsfusion.server.data.sql.SQLSession.onClose(SQLSession.java:2746)
+	at lsfusion.server.data.sql.SQLSession.onClose(SQLSession.java:1)
+	at lsfusion.server.base.MutableClosedObject.explicitClose(MutableClosedObject.java:23)
+	at lsfusion.server.data.sql.SQLSession.close(SQLSession.java:3423)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.closeThreadLocalSql(DBManager.java:834)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$ClosableDaemonThreadFactory$ClosableThread.run(ExecutorFactory.java:558)
+
+16 февр. 2022 14:00:25,119 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@902469908
+	at lsfusion.base.ExceptionUtils.getStackTrace(ExceptionUtils.java:30)
+	at lsfusion.server.physics.admin.log.ServerLoggers.exinfoLog(ServerLoggers.java:124)
+	at lsfusion.server.data.sql.SQLSession.onClose(SQLSession.java:2746)
+	at lsfusion.server.data.sql.SQLSession.onClose(SQLSession.java:1)
+	at lsfusion.server.base.MutableClosedObject.explicitClose(MutableClosedObject.java:23)
+	at lsfusion.server.data.sql.SQLSession.close(SQLSession.java:3423)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.closeThreadLocalSql(DBManager.java:834)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$ClosableDaemonThreadFactory$ClosableThread.run(ExecutorFactory.java:558)
+
+16 февр. 2022 14:00:25,120 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@213309092
+	at lsfusion.base.ExceptionUtils.getStackTrace(ExceptionUtils.java:30)
+	at lsfusion.server.physics.admin.log.ServerLoggers.exinfoLog(ServerLoggers.java:124)
+	at lsfusion.server.data.sql.SQLSession.onClose(SQLSession.java:2746)
+	at lsfusion.server.data.sql.SQLSession.onClose(SQLSession.java:1)
+	at lsfusion.server.base.MutableClosedObject.explicitClose(MutableClosedObject.java:23)
+	at lsfusion.server.data.sql.SQLSession.close(SQLSession.java:3423)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.closeThreadLocalSql(DBManager.java:834)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$ClosableDaemonThreadFactory$ClosableThread.run(ExecutorFactory.java:558)
+
+16 февр. 2022 14:00:25,119 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@1360161345
+	at lsfusion.base.ExceptionUtils.getStackTrace(ExceptionUtils.java:30)
+	at lsfusion.server.physics.admin.log.ServerLoggers.exinfoLog(ServerLoggers.java:124)
+	at lsfusion.server.data.sql.SQLSession.onClose(SQLSession.java:2746)
+	at lsfusion.server.data.sql.SQLSession.onClose(SQLSession.java:1)
+	at lsfusion.server.base.MutableClosedObject.explicitClose(MutableClosedObject.java:23)
+	at lsfusion.server.data.sql.SQLSession.close(SQLSession.java:3423)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.closeThreadLocalSql(DBManager.java:834)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$ClosableDaemonThreadFactory$ClosableThread.run(ExecutorFactory.java:558)
+
+16 февр. 2022 14:00:25,124 system - system - system  INFO ExInfoLogger - SQL SESSION CLOSE SQL@882706486
+	at lsfusion.base.ExceptionUtils.getStackTrace(ExceptionUtils.java:30)
+	at lsfusion.server.physics.admin.log.ServerLoggers.exinfoLog(ServerLoggers.java:124)
+	at lsfusion.server.data.sql.SQLSession.onClose(SQLSession.java:2746)
+	at lsfusion.server.data.sql.SQLSession.onClose(SQLSession.java:1)
+	at lsfusion.server.base.MutableClosedObject.explicitClose(MutableClosedObject.java:23)
+	at lsfusion.server.data.sql.SQLSession.close(SQLSession.java:3423)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.closeThreadLocalSql(DBManager.java:834)
+	at lsfusion.server.base.controller.thread.ThreadLocalContext.aspectAfter(ThreadLocalContext.java:341)
+	at lsfusion.server.base.controller.thread.ThreadLocalContext.aspectAfterEvent(ThreadLocalContext.java:359)
+	at lsfusion.server.base.controller.thread.ThreadLocalContext.aspectAfterEvent(ThreadLocalContext.java:371)
+	at lsfusion.server.base.controller.thread.ThreadLocalContext.aspectAfterLifecycle(ThreadLocalContext.java:443)
+	at lsfusion.server.logics.LogicsInstance.lambda$1(LogicsInstance.java:180)
+	at lsfusion.server.logics.LogicsInstance.start(LogicsInstance.java:200)
+	at lsfusion.server.logics.BusinessLogicsBootstrap.start(BusinessLogicsBootstrap.java:54)
+	at lsfusion.server.logics.BusinessLogicsBootstrap.main(BusinessLogicsBootstrap.java:168)
+

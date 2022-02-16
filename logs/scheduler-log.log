@@ -1,0 +1,175 @@
+16 февр. 2022 14:00:22,912  INFO SchedulerLogger - Started running scheduler task - Changing current date
+16 февр. 2022 14:00:22,913  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:22,913  INFO SchedulerLogger - Started running scheduler task - Copy files from 'resources/web' into target. Only for debug
+16 февр. 2022 14:00:22,913  INFO SchedulerLogger - Started running scheduler task - Changing current dateTime
+16 февр. 2022 14:00:22,917  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:22,923 ERROR SchedulerLogger - Error while running scheduler task - Copy files from 'resources/web' into target. Only for debug :
+java.lang.IllegalArgumentException: Parameter 'directory' is not a directory
+	at org.apache.commons.io.FileUtils.validateListFilesParameters(FileUtils.java:545)
+	at org.apache.commons.io.FileUtils.listFiles(FileUtils.java:521)
+	at org.apache.commons.io.FileUtils.listFiles(FileUtils.java:691)
+	at lsfusion.server.physics.dev.integration.external.to.file.FileUtils.synchronizeDirectories(FileUtils.java:411)
+	at lsfusion.server.logics.BusinessLogics.lambda$30(BusinessLogics.java:2108)
+	at lsfusion.server.physics.admin.scheduler.controller.manager.Scheduler$SchedulerTask.lambda$0(Scheduler.java:311)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at lsfusion.server.base.controller.thread.ExecutorFactory.lambda$0(ExecutorFactory.java:319)
+	at lsfusion.server.base.controller.thread.WrappingExecutorService.lambda$0(WrappingExecutorService.java:35)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$ClosableDaemonThreadFactory$ClosableThread.run(ExecutorFactory.java:552)
+16 февр. 2022 14:00:23,062  INFO SchedulerLogger - Finished running scheduler task - Changing current dateTime
+16 февр. 2022 14:00:23,097  INFO SchedulerLogger - Finished running scheduler task - Changing current date
+16 февр. 2022 14:00:23,922  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:23,922  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:24,924  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:24,924  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:25,924  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:25,924  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:26,914  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:26,914  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:27,919  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:27,919  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:28,927  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:28,927  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:29,919  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:29,919  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:30,918  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:30,918  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:31,925  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:31,925  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:32,914  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:32,914  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:33,925  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:33,925  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:34,918  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:34,918  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:35,924  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:35,924  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:36,917  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:36,917  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:37,916  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:37,916  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:38,924  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:38,924  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:39,924  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:39,924  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:40,925  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:40,925  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:41,927  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:41,927  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:42,927  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:42,927  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:43,920  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:43,920  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:44,926  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:44,926  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:45,916  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:45,916  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:46,926  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:46,926  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:47,925  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:47,925  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:48,923  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:48,923  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:49,914  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:49,914  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:50,927  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:50,927  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:51,926  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:51,926  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:52,918  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:52,918  INFO SchedulerLogger - Started running scheduler task - Changing current date
+16 февр. 2022 14:00:52,918  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:52,921  INFO SchedulerLogger - Finished running scheduler task - Changing current date
+16 февр. 2022 14:00:53,927  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:53,927  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:54,917  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:54,917  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:55,914  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:55,914  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:56,923  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:56,923  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:57,914  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:57,914  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:58,925  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:58,925  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:00:59,914  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:00:59,914  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:00,917  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:00,917  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:01,926  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:01,926  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:02,928  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:02,928  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:03,924  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:03,924  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:04,928  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:04,928  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:05,924  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:05,924  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:06,928  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:06,928  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:07,928  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:07,928  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:08,920  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:08,920  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:09,922  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:09,922  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:10,928  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:10,928  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:11,922  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:11,922  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:12,913  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:12,913  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:13,917  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:13,917  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:14,915  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:14,915  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:15,926  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:15,926  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:16,918  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:16,918  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:17,929  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:17,929  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:18,923  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:18,923  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:19,928  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:19,928  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:20,918  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:20,918  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:21,917  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:21,917  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:22,923  INFO SchedulerLogger - Started running scheduler task - Changing current date
+16 февр. 2022 14:01:22,923  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:22,923  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:22,924  INFO SchedulerLogger - Finished running scheduler task - Changing current date
+16 февр. 2022 14:01:23,921  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:23,921  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:24,922  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:24,922  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:25,917  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:25,917  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:26,923  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:26,923  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:27,922  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:27,922  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:28,928  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:28,928  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:29,918  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:29,918  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:30,921  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:30,921  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:31,914  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:31,914  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:32,927  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:32,927  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:33,920  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:33,920  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:34,921  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:34,921  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
+16 февр. 2022 14:01:35,922  INFO SchedulerLogger - Started running scheduler task - Flush async values caches
+16 февр. 2022 14:01:35,922  INFO SchedulerLogger - Finished running scheduler task - Flush async values caches
