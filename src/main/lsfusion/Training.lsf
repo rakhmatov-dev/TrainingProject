@@ -19,8 +19,9 @@ NAVIGATOR {
     NEW Test;
 }
 
+// +++ DATA
 CLASS Test;
-testL = DATA LOCAL INTEGER (Test) MATERIALIZED;
+testL = DATA LOCAL INTEGER (Test); // локальное первичное свойство
 testM = DATA INTEGER (Test);
 
 FORM tests
@@ -32,7 +33,7 @@ FORM tests
 ;
 
 FORM test
-    OBJECTS t = Test
+    OBJECTS t = Test PANEL
     PROPERTIES(t) testL, testM
     EDIT Test OBJECT t
 ;
@@ -40,3 +41,86 @@ FORM test
 NAVIGATOR {
     NEW tests;
 }
+// --- DATA
+
+// +++ JOIN
+CLASS Triangle;
+cathetus1 = DATA DOUBLE (Triangle);
+cathetus2 = DATA DOUBLE (Triangle);
+
+hypotenuseSq(triangle) = cathetus1(triangle)*cathetus1(triangle) + cathetus2(triangle)*cathetus2(triangle);
+
+hypotenuseSqJ(triangle) = [x*x + y*y](cathetus1(triangle), cathetus2(triangle));
+
+FORM triangles
+    OBJECTS t = Triangle
+    PROPERTIES(t) cathetus1, cathetus2
+    PROPERTIES hypotenuseSq(t), hypotenuseSqJ(t)
+    
+    PROPERTIES(t) NEWSESSION NEW, EDIT, DELETE
+    LIST Triangle OBJECT t
+;
+
+FORM triangle
+    OBJECTS t = Triangle PANEL
+    PROPERTIES(t) cathetus1, cathetus2
+    PROPERTIES hypotenuseSq(t), hypotenuseSqJ(t)
+    
+    EDIT Triangle OBJECT t
+;
+
+NAVIGATOR {
+    NEW triangles;
+}
+// --- JOIN
+
+// +++ Константное свойство
+CLASS Direction {
+    north, east, south, west
+}
+
+isNorth (Direction d) = d == Direction.north;
+
+defaultDate() = 2022_02_18;
+
+CLASS Man;
+age 'Возраст' = DATA INTEGER (Man);
+isChild (m) = age(m) < 17;
+// --- Константное свойство
+
+// +++ Операции с примитивами
+
+// +++ Работа со строками
+CLASS Person;
+firstName = DATA STRING[100] (Person);
+middleName = DATA STRING[100] (Person);
+lastName = DATA STRING[100] (Person);
+
+fullName(p) = CONCAT ' ', firstName(p), middleName(p), lastName(p);
+stringStruct() = STRUCT(1, 'two', 3.0);
+testP() {
+    MESSAGE stringStruct()[1];
+}
+
+FORM persons
+    OBJECTS p = Person
+    PROPERTIES(p) firstName, middleName, lastName
+    PROPERTIES fullName(p)
+    
+    PROPERTIES(p) NEWSESSION NEW, EDIT, DELETE
+    LIST Person OBJECT p
+;
+
+FORM person
+    OBJECTS p = Person PANEL 
+    PROPERTIES(p) firstName, middleName, lastName
+    PROPERTIES fullName(p)
+    PROPERTIES testP()
+    EDIT Person OBJECT p
+;
+
+NAVIGATOR {
+    NEW persons;
+}
+// --- Работа со строками
+

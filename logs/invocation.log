@@ -996,3 +996,1232 @@
 16 февр. 2022 19:55:04,883  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 5]
 16 февр. 2022 19:55:04,898  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 5] finished
 16 февр. 2022 19:55:04,898  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 5] for request #5
+17 февр. 2022 12:42:29,976  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:42:29,978  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:42:29,979  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+17 февр. 2022 12:42:30,076  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+17 февр. 2022 12:42:30,076  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:42:32,372  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:42:32,372  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:42:32,372  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+17 февр. 2022 12:42:32,532  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 12:42:32,532  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+17 февр. 2022 12:42:32,532  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:42:32,647  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:42:32,647  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:42:32,648  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 0]
+17 февр. 2022 12:42:32,650  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 0] finished
+17 февр. 2022 12:42:32,650  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:42:33,770  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: changePageSize, rq: 1] for request #1
+17 февр. 2022 12:42:33,770  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: changePageSize, rq: 1] for request #1
+17 февр. 2022 12:42:33,770  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: changePageSize, rq: 1]
+17 февр. 2022 12:42:33,771  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: changePageSize, rq: 1] finished
+17 февр. 2022 12:42:33,771  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: changePageSize, rq: 1] for request #1
+17 февр. 2022 12:42:35,089  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:42:35,089  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:42:35,089  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: executeEventAction, rq: 2]
+17 февр. 2022 12:42:35,117  INFO PausableInvocationsLogger - Interaction [f: Training.tests, m: executeEventAction, rq: 2] called pauseForUserInteraction: [FormClientAction[modalitType: DOCKED_MODAL]]
+17 февр. 2022 12:42:35,164  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:42:35,164  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:42:35,165  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 0]
+17 февр. 2022 12:42:35,166  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 0] finished
+17 февр. 2022 12:42:35,166  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:42:36,955  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:42:36,955  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:42:36,955  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 1]
+17 февр. 2022 12:42:36,963  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 1] finished
+17 февр. 2022 12:42:36,963  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:42:37,412  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:42:37,412  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:42:37,412  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 2]
+17 февр. 2022 12:42:37,415  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 2] finished
+17 февр. 2022 12:42:37,415  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:42:38,522  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 12:42:38,522  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 12:42:38,522  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: executeEventAction, rq: 3]
+17 февр. 2022 12:42:38,556  INFO PausableInvocationsLogger - Interaction [f: Training.test, m: executeEventAction, rq: 3] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 12:42:38,562  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: executeEventAction, rq: 3] finished
+17 февр. 2022 12:42:38,562  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 12:42:40,211  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: gainedFocus, rq: 4] for request #4
+17 февр. 2022 12:42:40,211  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: gainedFocus, rq: 4] for request #4
+17 февр. 2022 12:42:40,211  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: gainedFocus, rq: 4]
+17 февр. 2022 12:42:40,212  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: gainedFocus, rq: 4] finished
+17 февр. 2022 12:42:40,212  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: gainedFocus, rq: 4] for request #4
+17 февр. 2022 12:42:40,311  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.test, m: closedPressed, rq: 5] for request #5
+17 февр. 2022 12:42:40,312  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.test, m: closedPressed, rq: 5] for request #5
+17 февр. 2022 12:42:40,312  INFO PausableInvocationsLogger - Run invocation: [f: Training.test, m: closedPressed, rq: 5]
+17 февр. 2022 12:42:40,312  INFO PausableInvocationsLogger - Interaction [f: Training.test, m: closedPressed, rq: 5] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@2c283584
+17 февр. 2022 12:42:40,314  INFO PausableInvocationsLogger - Invocation [f: Training.test, m: closedPressed, rq: 5] finished
+17 февр. 2022 12:42:40,314  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.test, m: closedPressed, rq: 5] for request #5
+17 февр. 2022 12:42:40,332  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: gainedFocus, rq: 3] for request #3
+17 февр. 2022 12:42:40,334  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.tests, m: gainedFocus, rq: 4] for request #4
+17 февр. 2022 12:42:40,340  INFO PausableInvocationsLogger - Interaction [f: Training.tests, m: executeEventAction, rq: 2] resumed after userInteraction: [null]
+17 февр. 2022 12:42:40,342  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: executeEventAction, rq: 2] finished
+17 февр. 2022 12:42:40,342  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:42:40,342  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: gainedFocus, rq: 3] for request #3
+17 февр. 2022 12:42:40,343  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 3]
+17 февр. 2022 12:42:40,343  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 3] finished
+17 февр. 2022 12:42:40,343  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 3] for request #3
+17 февр. 2022 12:42:40,343  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.tests, m: gainedFocus, rq: 4] for request #4
+17 февр. 2022 12:42:40,343  INFO PausableInvocationsLogger - Run invocation: [f: Training.tests, m: gainedFocus, rq: 4]
+17 февр. 2022 12:42:40,368  INFO PausableInvocationsLogger - Invocation [f: Training.tests, m: gainedFocus, rq: 4] finished
+17 февр. 2022 12:42:40,368  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.tests, m: gainedFocus, rq: 4] for request #4
+17 февр. 2022 12:52:12,543  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:52:12,545  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:52:12,546  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+17 февр. 2022 12:52:12,633  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+17 февр. 2022 12:52:12,633  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:52:13,581  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:52:13,581  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:52:13,581  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+17 февр. 2022 12:52:13,749  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 12:52:13,749  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+17 февр. 2022 12:52:13,749  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:52:13,987  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangles, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:52:13,988  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangles, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:52:13,988  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangles, m: gainedFocus, rq: 0]
+17 февр. 2022 12:52:13,990  INFO PausableInvocationsLogger - Invocation [f: Training.triangles, m: gainedFocus, rq: 0] finished
+17 февр. 2022 12:52:13,990  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.triangles, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:52:15,999  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangles, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:52:15,999  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangles, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:52:15,999  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangles, m: executeEventAction, rq: 1]
+17 февр. 2022 12:52:16,025  INFO PausableInvocationsLogger - Interaction [f: Training.triangles, m: executeEventAction, rq: 1] called pauseForUserInteraction: [FormClientAction[modalitType: DOCKED_MODAL]]
+17 февр. 2022 12:52:16,066  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangle, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:52:16,066  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangle, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:52:16,069  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangle, m: gainedFocus, rq: 0]
+17 февр. 2022 12:52:16,070  INFO PausableInvocationsLogger - Invocation [f: Training.triangle, m: gainedFocus, rq: 0] finished
+17 февр. 2022 12:52:16,071  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.triangle, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:52:19,621  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangle, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:52:19,621  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangle, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:52:19,622  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangle, m: executeEventAction, rq: 1]
+17 февр. 2022 12:52:19,633  INFO PausableInvocationsLogger - Invocation [f: Training.triangle, m: executeEventAction, rq: 1] finished
+17 февр. 2022 12:52:19,633  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.triangle, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:52:21,493  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangle, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:52:21,493  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangle, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:52:21,493  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangle, m: executeEventAction, rq: 2]
+17 февр. 2022 12:52:21,503  INFO PausableInvocationsLogger - Invocation [f: Training.triangle, m: executeEventAction, rq: 2] finished
+17 февр. 2022 12:52:21,503  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.triangle, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:54:32,169  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:54:32,170  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:54:32,172  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+17 февр. 2022 12:54:32,258  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+17 февр. 2022 12:54:32,258  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:54:45,591  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:54:45,591  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:54:45,591  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+17 февр. 2022 12:54:45,744  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 12:54:45,745  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+17 февр. 2022 12:54:45,745  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:54:45,865  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangles, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:54:45,865  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangles, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:54:45,865  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangles, m: gainedFocus, rq: 0]
+17 февр. 2022 12:54:45,867  INFO PausableInvocationsLogger - Invocation [f: Training.triangles, m: gainedFocus, rq: 0] finished
+17 февр. 2022 12:54:45,867  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.triangles, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:54:47,913  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangles, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:54:47,913  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangles, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:54:47,913  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangles, m: executeEventAction, rq: 1]
+17 февр. 2022 12:54:47,937  INFO PausableInvocationsLogger - Interaction [f: Training.triangles, m: executeEventAction, rq: 1] called pauseForUserInteraction: [FormClientAction[modalitType: DOCKED_MODAL]]
+17 февр. 2022 12:54:47,981  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangle, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:54:47,981  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangle, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:54:47,982  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangle, m: gainedFocus, rq: 0]
+17 февр. 2022 12:54:47,983  INFO PausableInvocationsLogger - Invocation [f: Training.triangle, m: gainedFocus, rq: 0] finished
+17 февр. 2022 12:54:47,983  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.triangle, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:55:11,791  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:55:11,793  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:55:11,795  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+17 февр. 2022 12:55:11,899  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+17 февр. 2022 12:55:11,899  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 12:55:18,655  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:55:18,655  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:55:18,655  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+17 февр. 2022 12:55:18,794  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 12:55:18,795  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+17 февр. 2022 12:55:18,795  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 12:55:18,895  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangles, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:55:18,895  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangles, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:55:18,896  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangles, m: gainedFocus, rq: 0]
+17 февр. 2022 12:55:18,898  INFO PausableInvocationsLogger - Invocation [f: Training.triangles, m: gainedFocus, rq: 0] finished
+17 февр. 2022 12:55:18,898  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.triangles, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:55:20,769  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangles, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:55:20,769  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangles, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:55:20,770  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangles, m: executeEventAction, rq: 1]
+17 февр. 2022 12:55:20,794  INFO PausableInvocationsLogger - Interaction [f: Training.triangles, m: executeEventAction, rq: 1] called pauseForUserInteraction: [FormClientAction[modalitType: DOCKED_MODAL]]
+17 февр. 2022 12:55:20,847  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangle, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:55:20,847  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangle, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:55:20,848  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangle, m: gainedFocus, rq: 0]
+17 февр. 2022 12:55:20,849  INFO PausableInvocationsLogger - Invocation [f: Training.triangle, m: gainedFocus, rq: 0] finished
+17 февр. 2022 12:55:20,849  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.triangle, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 12:55:24,151  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangle, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:55:24,151  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangle, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:55:24,152  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangle, m: executeEventAction, rq: 1]
+17 февр. 2022 12:55:24,160  INFO PausableInvocationsLogger - Invocation [f: Training.triangle, m: executeEventAction, rq: 1] finished
+17 февр. 2022 12:55:24,160  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.triangle, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 12:55:25,177  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.triangle, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:55:25,177  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.triangle, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 12:55:25,177  INFO PausableInvocationsLogger - Run invocation: [f: Training.triangle, m: executeEventAction, rq: 2]
+17 февр. 2022 12:55:25,186  INFO PausableInvocationsLogger - Invocation [f: Training.triangle, m: executeEventAction, rq: 2] finished
+17 февр. 2022 12:55:25,186  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.triangle, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:00:00,313  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+17 февр. 2022 18:00:00,313  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+17 февр. 2022 18:00:00,315  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+17 февр. 2022 18:00:00,551  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 18:00:00,551  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+17 февр. 2022 18:00:00,552  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+17 февр. 2022 18:00:00,810  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:00:00,810  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:00:00,811  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 0]
+17 февр. 2022 18:00:00,813  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:00:00,813  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:00:03,103  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:00:03,103  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:00:03,103  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 1]
+17 февр. 2022 18:00:03,123  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:00:03,124  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:00:03,238  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:00:03,238  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:00:03,238  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 2]
+17 февр. 2022 18:00:03,251  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 2] finished
+17 февр. 2022 18:00:03,251  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:00:03,307  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: changeGroupObject, rq: 3] for request #3
+17 февр. 2022 18:00:03,308  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: changeGroupObject, rq: 3] for request #3
+17 февр. 2022 18:00:03,308  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: changeGroupObject, rq: 3]
+17 февр. 2022 18:00:03,309  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: changeGroupObject, rq: 3] finished
+17 февр. 2022 18:00:03,309  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: changeGroupObject, rq: 3] for request #3
+17 февр. 2022 18:00:04,674  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 4] for request #4
+17 февр. 2022 18:00:04,675  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 4] for request #4
+17 февр. 2022 18:00:04,675  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 4]
+17 февр. 2022 18:00:04,679  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 4] finished
+17 февр. 2022 18:00:04,679  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 4] for request #4
+17 февр. 2022 18:00:04,814  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:00:04,814  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:00:04,814  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 5]
+17 февр. 2022 18:00:04,816  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: changeGroupObject, rq: 6] for request #6
+17 февр. 2022 18:00:04,817  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 5] finished
+17 февр. 2022 18:00:04,817  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:00:04,817  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: changeGroupObject, rq: 6] for request #6
+17 февр. 2022 18:00:04,817  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: changeGroupObject, rq: 6]
+17 февр. 2022 18:00:04,822  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: changeGroupObject, rq: 6] finished
+17 февр. 2022 18:00:04,822  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: changeGroupObject, rq: 6] for request #6
+17 февр. 2022 18:00:20,696  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:00:20,696  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:00:20,696  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 7]
+17 февр. 2022 18:00:20,708  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 8] for request #8
+17 февр. 2022 18:00:20,716  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 7] finished
+17 февр. 2022 18:00:20,717  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:00:20,717  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 8] for request #8
+17 февр. 2022 18:00:20,717  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 8]
+17 февр. 2022 18:00:20,893  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 8] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:00:20,935  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 8] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 3, ext: false]]
+17 февр. 2022 18:00:20,949  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 9] for request #9
+17 февр. 2022 18:00:22,099  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 8] resumed after userInteraction: [null, null]
+17 февр. 2022 18:00:22,099  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 8] finished
+17 февр. 2022 18:00:22,099  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 8] for request #8
+17 февр. 2022 18:00:22,099  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 9] for request #9
+17 февр. 2022 18:00:22,100  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 9]
+17 февр. 2022 18:00:22,148  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 9] finished
+17 февр. 2022 18:00:22,148  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 9] for request #9
+17 февр. 2022 18:00:38,994  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 10] for request #10
+17 февр. 2022 18:00:38,994  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 10] for request #10
+17 февр. 2022 18:00:38,994  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 10]
+17 февр. 2022 18:00:38,996  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 11] for request #11
+17 февр. 2022 18:00:38,997  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 10] finished
+17 февр. 2022 18:00:38,997  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 10] for request #10
+17 февр. 2022 18:00:38,997  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 11] for request #11
+17 февр. 2022 18:00:38,998  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 11]
+17 февр. 2022 18:00:39,040  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 11] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:00:39,051  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 11] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 3, ext: false]]
+17 февр. 2022 18:00:39,059  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 12] for request #12
+17 февр. 2022 18:00:40,050  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 11] resumed after userInteraction: [null, null]
+17 февр. 2022 18:00:40,050  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 11] finished
+17 февр. 2022 18:00:40,050  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 11] for request #11
+17 февр. 2022 18:00:40,050  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 12] for request #12
+17 февр. 2022 18:00:40,050  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 12]
+17 февр. 2022 18:00:40,077  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 12] finished
+17 февр. 2022 18:00:40,077  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 12] for request #12
+17 февр. 2022 18:00:44,029  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 13] for request #13
+17 февр. 2022 18:00:44,029  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 13] for request #13
+17 февр. 2022 18:00:44,030  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 13]
+17 февр. 2022 18:00:44,033  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 14] for request #14
+17 февр. 2022 18:00:44,033  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 13] finished
+17 февр. 2022 18:00:44,033  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 13] for request #13
+17 февр. 2022 18:00:44,034  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 14] for request #14
+17 февр. 2022 18:00:44,034  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 14]
+17 февр. 2022 18:00:44,073  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 14] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:00:44,083  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 14] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 2, ext: false]]
+17 февр. 2022 18:00:44,091  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 15] for request #15
+17 февр. 2022 18:00:45,293  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 14] resumed after userInteraction: [null, null]
+17 февр. 2022 18:00:45,294  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 14] finished
+17 февр. 2022 18:00:45,294  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 14] for request #14
+17 февр. 2022 18:00:45,294  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 15] for request #15
+17 февр. 2022 18:00:45,294  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 15]
+17 февр. 2022 18:00:45,321  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 15] finished
+17 февр. 2022 18:00:45,321  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 15] for request #15
+17 февр. 2022 18:00:48,779  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 16] for request #16
+17 февр. 2022 18:00:48,779  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 16] for request #16
+17 февр. 2022 18:00:48,779  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 16]
+17 февр. 2022 18:00:48,782  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 17] for request #17
+17 февр. 2022 18:00:48,783  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 16] finished
+17 февр. 2022 18:00:48,783  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 16] for request #16
+17 февр. 2022 18:00:48,783  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 17] for request #17
+17 февр. 2022 18:00:48,783  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 17]
+17 февр. 2022 18:00:48,813  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 17] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:00:48,821  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 17] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: , ext: false]]
+17 февр. 2022 18:00:48,831  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 18] for request #18
+17 февр. 2022 18:00:50,221  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 17] resumed after userInteraction: [null, null]
+17 февр. 2022 18:00:50,221  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 17] finished
+17 февр. 2022 18:00:50,221  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 17] for request #17
+17 февр. 2022 18:00:50,222  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 18] for request #18
+17 февр. 2022 18:00:50,222  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 18]
+17 февр. 2022 18:00:50,245  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 18] finished
+17 февр. 2022 18:00:50,245  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 18] for request #18
+17 февр. 2022 18:00:51,596  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 19] for request #19
+17 февр. 2022 18:00:51,596  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 19] for request #19
+17 февр. 2022 18:00:51,596  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 19]
+17 февр. 2022 18:00:51,601  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 19] finished
+17 февр. 2022 18:00:51,601  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 19] for request #19
+17 февр. 2022 18:01:01,814  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 20] for request #20
+17 февр. 2022 18:01:01,814  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 20] for request #20
+17 февр. 2022 18:01:01,814  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 20]
+17 февр. 2022 18:01:01,818  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 20] finished
+17 февр. 2022 18:01:01,818  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 20] for request #20
+17 февр. 2022 18:01:01,942  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 21] for request #21
+17 февр. 2022 18:01:01,942  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 21] for request #21
+17 февр. 2022 18:01:01,942  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 21]
+17 февр. 2022 18:01:01,942  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: changeGroupObject, rq: 22] for request #22
+17 февр. 2022 18:01:01,944  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 21] finished
+17 февр. 2022 18:01:01,944  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 21] for request #21
+17 февр. 2022 18:01:01,944  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: changeGroupObject, rq: 22] for request #22
+17 февр. 2022 18:01:01,944  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: changeGroupObject, rq: 22]
+17 февр. 2022 18:01:01,950  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: changeGroupObject, rq: 22] finished
+17 февр. 2022 18:01:01,950  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: changeGroupObject, rq: 22] for request #22
+17 февр. 2022 18:01:43,605  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 23] for request #23
+17 февр. 2022 18:01:43,605  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 23] for request #23
+17 февр. 2022 18:01:43,605  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 23]
+17 февр. 2022 18:01:43,610  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 23] finished
+17 февр. 2022 18:01:43,610  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 23] for request #23
+17 февр. 2022 18:01:43,751  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 24] for request #24
+17 февр. 2022 18:01:43,751  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 24] for request #24
+17 февр. 2022 18:01:43,751  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 24]
+17 февр. 2022 18:01:43,753  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: changeGroupObject, rq: 25] for request #25
+17 февр. 2022 18:01:43,753  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 24] finished
+17 февр. 2022 18:01:43,753  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 24] for request #24
+17 февр. 2022 18:01:43,753  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: changeGroupObject, rq: 25] for request #25
+17 февр. 2022 18:01:43,753  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: changeGroupObject, rq: 25]
+17 февр. 2022 18:01:43,756  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: changeGroupObject, rq: 25] finished
+17 февр. 2022 18:01:43,757  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: changeGroupObject, rq: 25] for request #25
+17 февр. 2022 18:04:44,166  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 26] for request #26
+17 февр. 2022 18:04:44,166  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 26] for request #26
+17 февр. 2022 18:04:44,167  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 26]
+17 февр. 2022 18:04:44,172  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 26] finished
+17 февр. 2022 18:04:44,172  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 26] for request #26
+17 февр. 2022 18:05:19,957  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 27] for request #27
+17 февр. 2022 18:05:19,957  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 27] for request #27
+17 февр. 2022 18:05:19,957  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 27]
+17 февр. 2022 18:05:19,965  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 27] finished
+17 февр. 2022 18:05:19,965  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 27] for request #27
+17 февр. 2022 18:05:20,410  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 28] for request #28
+17 февр. 2022 18:05:20,410  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 28] for request #28
+17 февр. 2022 18:05:20,410  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 28]
+17 февр. 2022 18:05:20,442  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 28] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:05:20,457  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 28] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 6, ext: false]]
+17 февр. 2022 18:05:20,468  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 29] for request #29
+17 февр. 2022 18:05:21,345  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 28] resumed after userInteraction: [null, null]
+17 февр. 2022 18:05:21,346  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 28] finished
+17 февр. 2022 18:05:21,346  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 28] for request #28
+17 февр. 2022 18:05:21,346  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 29] for request #29
+17 февр. 2022 18:05:21,346  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 29]
+17 февр. 2022 18:05:21,370  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 29] finished
+17 февр. 2022 18:05:21,371  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 29] for request #29
+17 февр. 2022 18:05:26,499  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 30] for request #30
+17 февр. 2022 18:05:26,499  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 30] for request #30
+17 февр. 2022 18:05:26,499  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 30]
+17 февр. 2022 18:05:26,503  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 31] for request #31
+17 февр. 2022 18:05:26,509  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 30] finished
+17 февр. 2022 18:05:26,510  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 30] for request #30
+17 февр. 2022 18:05:26,510  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 31] for request #31
+17 февр. 2022 18:05:26,510  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 31]
+17 февр. 2022 18:05:26,549  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 31] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:05:26,588  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 31] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:05:26,670  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 32] for request #32
+17 февр. 2022 18:05:26,672  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:05:26,672  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:05:26,673  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:05:26,674  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:05:26,674  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:05:31,795  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:05:31,795  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:05:31,795  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:05:31,796  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@6ab14fd4
+17 февр. 2022 18:05:31,798  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:05:31,798  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:05:31,804  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 33] for request #33
+17 февр. 2022 18:05:31,807  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 31] resumed after userInteraction: [null, null]
+17 февр. 2022 18:05:31,808  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 31] finished
+17 февр. 2022 18:05:31,808  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 31] for request #31
+17 февр. 2022 18:05:31,808  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 32] for request #32
+17 февр. 2022 18:05:31,808  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 32]
+17 февр. 2022 18:05:31,811  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 32] finished
+17 февр. 2022 18:05:31,811  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 32] for request #32
+17 февр. 2022 18:05:31,811  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 33] for request #33
+17 февр. 2022 18:05:31,811  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 33]
+17 февр. 2022 18:05:31,833  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 33] finished
+17 февр. 2022 18:05:31,833  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 33] for request #33
+17 февр. 2022 18:05:42,278  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 34] for request #34
+17 февр. 2022 18:05:42,278  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 34] for request #34
+17 февр. 2022 18:05:42,278  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 34]
+17 февр. 2022 18:05:42,280  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 35] for request #35
+17 февр. 2022 18:05:42,280  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 34] finished
+17 февр. 2022 18:05:42,280  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 34] for request #34
+17 февр. 2022 18:05:42,280  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 35] for request #35
+17 февр. 2022 18:05:42,280  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 35]
+17 февр. 2022 18:05:42,315  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 35] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:05:42,323  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 35] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: , ext: false]]
+17 февр. 2022 18:05:42,333  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 36] for request #36
+17 февр. 2022 18:05:43,613  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 35] resumed after userInteraction: [null, null]
+17 февр. 2022 18:05:43,613  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 35] finished
+17 февр. 2022 18:05:43,614  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 35] for request #35
+17 февр. 2022 18:05:43,614  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 36] for request #36
+17 февр. 2022 18:05:43,614  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 36]
+17 февр. 2022 18:05:43,637  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 36] finished
+17 февр. 2022 18:05:43,637  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 36] for request #36
+17 февр. 2022 18:05:44,781  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 37] for request #37
+17 февр. 2022 18:05:44,781  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 37] for request #37
+17 февр. 2022 18:05:44,781  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 37]
+17 февр. 2022 18:05:44,788  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 38] for request #38
+17 февр. 2022 18:05:44,790  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 37] finished
+17 февр. 2022 18:05:44,790  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 37] for request #37
+17 февр. 2022 18:05:44,790  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 38] for request #38
+17 февр. 2022 18:05:44,792  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 38]
+17 февр. 2022 18:05:44,839  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 38] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:05:44,845  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 38] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: , ext: false]]
+17 февр. 2022 18:05:44,852  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 39] for request #39
+17 февр. 2022 18:05:45,630  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 38] resumed after userInteraction: [null, null]
+17 февр. 2022 18:05:45,631  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 38] finished
+17 февр. 2022 18:05:45,631  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 38] for request #38
+17 февр. 2022 18:05:45,631  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 39] for request #39
+17 февр. 2022 18:05:45,631  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 39]
+17 февр. 2022 18:05:45,673  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 39] finished
+17 февр. 2022 18:05:45,673  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 39] for request #39
+17 февр. 2022 18:05:47,734  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 40] for request #40
+17 февр. 2022 18:05:47,734  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 40] for request #40
+17 февр. 2022 18:05:47,734  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 40]
+17 февр. 2022 18:05:47,740  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 40] finished
+17 февр. 2022 18:05:47,741  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 40] for request #40
+17 февр. 2022 18:06:51,438  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 41] for request #41
+17 февр. 2022 18:06:51,439  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 41] for request #41
+17 февр. 2022 18:06:51,441  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 41]
+17 февр. 2022 18:06:51,450  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 42] for request #42
+17 февр. 2022 18:06:51,451  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 41] finished
+17 февр. 2022 18:06:51,452  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 41] for request #41
+17 февр. 2022 18:06:51,452  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 42] for request #42
+17 февр. 2022 18:06:51,452  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 42]
+17 февр. 2022 18:06:51,502  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 42] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:06:51,510  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 42] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: , ext: false]]
+17 февр. 2022 18:06:51,518  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 43] for request #43
+17 февр. 2022 18:06:52,825  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 42] resumed after userInteraction: [null, null]
+17 февр. 2022 18:06:52,826  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 42] finished
+17 февр. 2022 18:06:52,826  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 42] for request #42
+17 февр. 2022 18:06:52,826  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 43] for request #43
+17 февр. 2022 18:06:52,826  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 43]
+17 февр. 2022 18:06:52,849  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 43] finished
+17 февр. 2022 18:06:52,849  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 43] for request #43
+17 февр. 2022 18:06:58,420  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 44] for request #44
+17 февр. 2022 18:06:58,420  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 44] for request #44
+17 февр. 2022 18:06:58,420  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 44]
+17 февр. 2022 18:06:58,424  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 45] for request #45
+17 февр. 2022 18:06:58,427  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 44] finished
+17 февр. 2022 18:06:58,427  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 44] for request #44
+17 февр. 2022 18:06:58,427  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 45] for request #45
+17 февр. 2022 18:06:58,427  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 45]
+17 февр. 2022 18:06:58,464  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 45] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:06:58,473  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 45] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: , ext: false]]
+17 февр. 2022 18:06:58,482  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 46] for request #46
+17 февр. 2022 18:06:59,598  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 45] resumed after userInteraction: [null, null]
+17 февр. 2022 18:06:59,598  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 45] finished
+17 февр. 2022 18:06:59,598  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 45] for request #45
+17 февр. 2022 18:06:59,598  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 46] for request #46
+17 февр. 2022 18:06:59,598  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 46]
+17 февр. 2022 18:06:59,624  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 46] finished
+17 февр. 2022 18:06:59,624  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 46] for request #46
+17 февр. 2022 18:07:15,684  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 47] for request #47
+17 февр. 2022 18:07:15,684  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 47] for request #47
+17 февр. 2022 18:07:15,684  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 47]
+17 февр. 2022 18:07:15,687  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 48] for request #48
+17 февр. 2022 18:07:15,688  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 47] finished
+17 февр. 2022 18:07:15,688  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 47] for request #47
+17 февр. 2022 18:07:15,688  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 48] for request #48
+17 февр. 2022 18:07:15,689  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 48]
+17 февр. 2022 18:07:15,725  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 48] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:07:15,731  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 48] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: true, ext: false]]
+17 февр. 2022 18:07:15,738  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 49] for request #49
+17 февр. 2022 18:07:17,329  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 48] resumed after userInteraction: [null, null]
+17 февр. 2022 18:07:17,330  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 48] finished
+17 февр. 2022 18:07:17,330  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 48] for request #48
+17 февр. 2022 18:07:17,330  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 49] for request #49
+17 февр. 2022 18:07:17,330  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 49]
+17 февр. 2022 18:07:17,353  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 49] finished
+17 февр. 2022 18:07:17,353  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 49] for request #49
+17 февр. 2022 18:07:37,478  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 50] for request #50
+17 февр. 2022 18:07:37,479  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 50] for request #50
+17 февр. 2022 18:07:37,479  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 50]
+17 февр. 2022 18:07:37,482  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 51] for request #51
+17 февр. 2022 18:07:37,485  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 50] finished
+17 февр. 2022 18:07:37,485  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 50] for request #50
+17 февр. 2022 18:07:37,485  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 51] for request #51
+17 февр. 2022 18:07:37,485  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 51]
+17 февр. 2022 18:07:37,516  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 51] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:07:37,522  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 51] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: , ext: false]]
+17 февр. 2022 18:07:37,530  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 52] for request #52
+17 февр. 2022 18:07:38,670  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 51] resumed after userInteraction: [null, null]
+17 февр. 2022 18:07:38,670  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 51] finished
+17 февр. 2022 18:07:38,670  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 51] for request #51
+17 февр. 2022 18:07:38,670  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 52] for request #52
+17 февр. 2022 18:07:38,670  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 52]
+17 февр. 2022 18:07:38,691  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 52] finished
+17 февр. 2022 18:07:38,691  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 52] for request #52
+17 февр. 2022 18:07:40,630  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 53] for request #53
+17 февр. 2022 18:07:40,630  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 53] for request #53
+17 февр. 2022 18:07:40,630  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 53]
+17 февр. 2022 18:07:40,634  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 53] finished
+17 февр. 2022 18:07:40,634  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 53] for request #53
+17 февр. 2022 18:07:54,444  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 54] for request #54
+17 февр. 2022 18:07:54,444  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 54] for request #54
+17 февр. 2022 18:07:54,445  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 54]
+17 февр. 2022 18:07:54,457  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 54] finished
+17 февр. 2022 18:07:54,457  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 54] for request #54
+17 февр. 2022 18:09:06,066  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 55] for request #55
+17 февр. 2022 18:09:06,066  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 55] for request #55
+17 февр. 2022 18:09:06,067  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 55]
+17 февр. 2022 18:09:06,072  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 56] for request #56
+17 февр. 2022 18:09:06,077  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 55] finished
+17 февр. 2022 18:09:06,077  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 55] for request #55
+17 февр. 2022 18:09:06,077  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 56] for request #56
+17 февр. 2022 18:09:06,077  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 56]
+17 февр. 2022 18:09:06,110  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 56] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:09:06,136  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 56] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:09:06,188  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 57] for request #57
+17 февр. 2022 18:09:06,190  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:09:06,190  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:09:06,191  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:09:06,191  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:09:06,191  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:09:07,507  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:09:07,507  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:09:07,507  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:09:07,507  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@fadb406
+17 февр. 2022 18:09:07,508  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:09:07,508  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:09:07,515  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 58] for request #58
+17 февр. 2022 18:09:07,517  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 56] resumed after userInteraction: [null, null]
+17 февр. 2022 18:09:07,517  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 56] finished
+17 февр. 2022 18:09:07,518  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 56] for request #56
+17 февр. 2022 18:09:07,518  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 57] for request #57
+17 февр. 2022 18:09:07,518  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 57]
+17 февр. 2022 18:09:07,520  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 57] finished
+17 февр. 2022 18:09:07,520  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 57] for request #57
+17 февр. 2022 18:09:07,520  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 58] for request #58
+17 февр. 2022 18:09:07,520  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 58]
+17 февр. 2022 18:09:07,537  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 58] finished
+17 февр. 2022 18:09:07,537  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 58] for request #58
+17 февр. 2022 18:09:13,703  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 59] for request #59
+17 февр. 2022 18:09:13,703  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 59] for request #59
+17 февр. 2022 18:09:13,703  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 59]
+17 февр. 2022 18:09:13,705  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 60] for request #60
+17 февр. 2022 18:09:13,707  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 59] finished
+17 февр. 2022 18:09:13,707  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 59] for request #59
+17 февр. 2022 18:09:13,707  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 60] for request #60
+17 февр. 2022 18:09:13,707  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 60]
+17 февр. 2022 18:09:13,735  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 60] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:09:13,744  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 60] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 2, ext: false]]
+17 февр. 2022 18:09:13,752  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 61] for request #61
+17 февр. 2022 18:09:14,577  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 60] resumed after userInteraction: [null, null]
+17 февр. 2022 18:09:14,578  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 60] finished
+17 февр. 2022 18:09:14,578  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 60] for request #60
+17 февр. 2022 18:09:14,578  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 61] for request #61
+17 февр. 2022 18:09:14,578  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 61]
+17 февр. 2022 18:09:14,598  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 61] finished
+17 февр. 2022 18:09:14,599  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 61] for request #61
+17 февр. 2022 18:09:18,594  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 62] for request #62
+17 февр. 2022 18:09:18,594  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 62] for request #62
+17 февр. 2022 18:09:18,594  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 62]
+17 февр. 2022 18:09:18,597  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 63] for request #63
+17 февр. 2022 18:09:18,598  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 62] finished
+17 февр. 2022 18:09:18,598  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 62] for request #62
+17 февр. 2022 18:09:18,598  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 63] for request #63
+17 февр. 2022 18:09:18,598  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 63]
+17 февр. 2022 18:09:18,642  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 63] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:09:18,649  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 63] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 1, ext: false]]
+17 февр. 2022 18:09:18,657  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 64] for request #64
+17 февр. 2022 18:09:19,743  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 63] resumed after userInteraction: [null, null]
+17 февр. 2022 18:09:19,743  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 63] finished
+17 февр. 2022 18:09:19,743  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 63] for request #63
+17 февр. 2022 18:09:19,744  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 64] for request #64
+17 февр. 2022 18:09:19,744  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 64]
+17 февр. 2022 18:09:19,763  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 64] finished
+17 февр. 2022 18:09:19,763  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 64] for request #64
+17 февр. 2022 18:09:25,998  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 65] for request #65
+17 февр. 2022 18:09:25,998  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 65] for request #65
+17 февр. 2022 18:09:25,998  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 65]
+17 февр. 2022 18:09:26,009  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 66] for request #66
+17 февр. 2022 18:09:26,016  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 65] finished
+17 февр. 2022 18:09:26,016  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 65] for request #65
+17 февр. 2022 18:09:26,016  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 66] for request #66
+17 февр. 2022 18:09:26,016  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 66]
+17 февр. 2022 18:09:26,060  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 66] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:09:26,066  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 66] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: , ext: false]]
+17 февр. 2022 18:09:26,073  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 67] for request #67
+17 февр. 2022 18:09:26,988  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 66] resumed after userInteraction: [null, null]
+17 февр. 2022 18:09:26,989  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 66] finished
+17 февр. 2022 18:09:26,989  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 66] for request #66
+17 февр. 2022 18:09:26,989  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 67] for request #67
+17 февр. 2022 18:09:26,989  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 67]
+17 февр. 2022 18:09:27,012  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 67] finished
+17 февр. 2022 18:09:27,012  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 67] for request #67
+17 февр. 2022 18:09:43,805  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 68] for request #68
+17 февр. 2022 18:09:43,805  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 68] for request #68
+17 февр. 2022 18:09:43,805  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 68]
+17 февр. 2022 18:09:43,810  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 68] finished
+17 февр. 2022 18:09:43,810  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 68] for request #68
+17 февр. 2022 18:09:53,030  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 69] for request #69
+17 февр. 2022 18:09:53,030  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 69] for request #69
+17 февр. 2022 18:09:53,030  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 69]
+17 февр. 2022 18:09:53,035  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 69] finished
+17 февр. 2022 18:09:53,035  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 69] for request #69
+17 февр. 2022 18:13:27,645  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 70] for request #70
+17 февр. 2022 18:13:27,645  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 70] for request #70
+17 февр. 2022 18:13:27,648  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 70]
+17 февр. 2022 18:13:27,659  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 71] for request #71
+17 февр. 2022 18:13:27,660  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 70] finished
+17 февр. 2022 18:13:27,660  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 70] for request #70
+17 февр. 2022 18:13:27,660  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 71] for request #71
+17 февр. 2022 18:13:27,660  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 71]
+17 февр. 2022 18:13:27,717  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 71] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:13:27,731  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 71] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: ab, ext: false]]
+17 февр. 2022 18:13:27,743  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 72] for request #72
+17 февр. 2022 18:13:28,600  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 71] resumed after userInteraction: [null, null]
+17 февр. 2022 18:13:28,601  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 71] finished
+17 февр. 2022 18:13:28,601  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 71] for request #71
+17 февр. 2022 18:13:28,601  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 72] for request #72
+17 февр. 2022 18:13:28,601  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 72]
+17 февр. 2022 18:13:28,623  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 72] finished
+17 февр. 2022 18:13:28,623  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 72] for request #72
+17 февр. 2022 18:13:37,661  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 73] for request #73
+17 февр. 2022 18:13:37,661  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 73] for request #73
+17 февр. 2022 18:13:37,661  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 73]
+17 февр. 2022 18:13:37,663  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 74] for request #74
+17 февр. 2022 18:13:37,665  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 73] finished
+17 февр. 2022 18:13:37,665  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 73] for request #73
+17 февр. 2022 18:13:37,665  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 74] for request #74
+17 февр. 2022 18:13:37,665  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 74]
+17 февр. 2022 18:13:37,697  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 74] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:13:37,715  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 74] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:13:37,764  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 75] for request #75
+17 февр. 2022 18:13:37,766  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:13:37,766  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:13:37,766  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:13:37,767  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:13:37,767  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:13:39,547  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:13:39,547  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:13:39,548  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:13:39,550  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@3548198c
+17 февр. 2022 18:13:39,552  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:13:39,552  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:13:39,578  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 76] for request #76
+17 февр. 2022 18:13:39,585  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 74] resumed after userInteraction: [null, null]
+17 февр. 2022 18:13:39,587  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 74] finished
+17 февр. 2022 18:13:39,588  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 74] for request #74
+17 февр. 2022 18:13:39,588  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 75] for request #75
+17 февр. 2022 18:13:39,588  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 75]
+17 февр. 2022 18:13:39,595  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 75] finished
+17 февр. 2022 18:13:39,595  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 75] for request #75
+17 февр. 2022 18:13:39,596  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 76] for request #76
+17 февр. 2022 18:13:39,596  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 76]
+17 февр. 2022 18:13:39,622  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 76] finished
+17 февр. 2022 18:13:39,622  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 76] for request #76
+17 февр. 2022 18:13:48,071  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 77] for request #77
+17 февр. 2022 18:13:48,071  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 77] for request #77
+17 февр. 2022 18:13:48,071  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 77]
+17 февр. 2022 18:13:48,075  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 77] finished
+17 февр. 2022 18:13:48,075  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 77] for request #77
+17 февр. 2022 18:13:51,672  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 78] for request #78
+17 февр. 2022 18:13:51,672  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 78] for request #78
+17 февр. 2022 18:13:51,672  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 78]
+17 февр. 2022 18:13:51,676  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 79] for request #79
+17 февр. 2022 18:13:51,680  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 78] finished
+17 февр. 2022 18:13:51,680  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 78] for request #78
+17 февр. 2022 18:13:51,680  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 79] for request #79
+17 февр. 2022 18:13:51,680  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 79]
+17 февр. 2022 18:13:51,712  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 79] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:13:51,721  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 79] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: b, ext: false]]
+17 февр. 2022 18:13:51,732  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 80] for request #80
+17 февр. 2022 18:13:52,855  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 79] resumed after userInteraction: [null, null]
+17 февр. 2022 18:13:52,856  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 79] finished
+17 февр. 2022 18:13:52,856  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 79] for request #79
+17 февр. 2022 18:13:52,856  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 80] for request #80
+17 февр. 2022 18:13:52,856  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 80]
+17 февр. 2022 18:13:52,877  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 80] finished
+17 февр. 2022 18:13:52,877  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 80] for request #80
+17 февр. 2022 18:14:30,315  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 81] for request #81
+17 февр. 2022 18:14:30,315  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 81] for request #81
+17 февр. 2022 18:14:30,315  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 81]
+17 февр. 2022 18:14:30,320  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 81] finished
+17 февр. 2022 18:14:30,320  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 81] for request #81
+17 февр. 2022 18:14:49,779  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 82] for request #82
+17 февр. 2022 18:14:49,779  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 82] for request #82
+17 февр. 2022 18:14:49,779  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 82]
+17 февр. 2022 18:14:49,797  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 82] finished
+17 февр. 2022 18:14:49,797  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 82] for request #82
+17 февр. 2022 18:14:50,027  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 83] for request #83
+17 февр. 2022 18:14:50,027  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 83] for request #83
+17 февр. 2022 18:14:50,027  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 83]
+17 февр. 2022 18:14:50,072  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 83] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:14:50,079  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 83] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: ab, ext: false]]
+17 февр. 2022 18:14:50,086  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 84] for request #84
+17 февр. 2022 18:14:51,001  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 83] resumed after userInteraction: [null, null]
+17 февр. 2022 18:14:51,002  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 83] finished
+17 февр. 2022 18:14:51,002  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 83] for request #83
+17 февр. 2022 18:14:51,002  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 84] for request #84
+17 февр. 2022 18:14:51,002  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 84]
+17 февр. 2022 18:14:51,023  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 84] finished
+17 февр. 2022 18:14:51,023  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 84] for request #84
+17 февр. 2022 18:14:52,598  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 85] for request #85
+17 февр. 2022 18:14:52,598  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 85] for request #85
+17 февр. 2022 18:14:52,598  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 85]
+17 февр. 2022 18:14:52,601  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 86] for request #86
+17 февр. 2022 18:14:52,601  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 85] finished
+17 февр. 2022 18:14:52,601  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 85] for request #85
+17 февр. 2022 18:14:52,601  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 86] for request #86
+17 февр. 2022 18:14:52,601  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 86]
+17 февр. 2022 18:14:52,627  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 86] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:14:52,633  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 86] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: a b, ext: false]]
+17 февр. 2022 18:14:52,641  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 87] for request #87
+17 февр. 2022 18:14:53,559  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 86] resumed after userInteraction: [null, null]
+17 февр. 2022 18:14:53,559  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 86] finished
+17 февр. 2022 18:14:53,559  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 86] for request #86
+17 февр. 2022 18:14:53,559  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 87] for request #87
+17 февр. 2022 18:14:53,559  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 87]
+17 февр. 2022 18:14:53,579  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 87] finished
+17 февр. 2022 18:14:53,580  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 87] for request #87
+17 февр. 2022 18:14:55,108  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 88] for request #88
+17 февр. 2022 18:14:55,108  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 88] for request #88
+17 февр. 2022 18:14:55,108  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 88]
+17 февр. 2022 18:14:55,114  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 88] finished
+17 февр. 2022 18:14:55,114  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 88] for request #88
+17 февр. 2022 18:15:17,614  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 89] for request #89
+17 февр. 2022 18:15:17,614  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 89] for request #89
+17 февр. 2022 18:15:17,614  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 89]
+17 февр. 2022 18:15:17,629  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 90] for request #90
+17 февр. 2022 18:15:17,638  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 89] finished
+17 февр. 2022 18:15:17,638  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 89] for request #89
+17 февр. 2022 18:15:17,638  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 90] for request #90
+17 февр. 2022 18:15:17,639  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 90]
+17 февр. 2022 18:15:17,687  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 90] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:15:17,703  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 90] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:15:17,757  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 91] for request #91
+17 февр. 2022 18:15:17,759  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:17,759  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:17,759  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:15:17,760  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:15:17,760  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:19,314  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:19,314  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:19,314  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:15:19,315  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@6ad1e49
+17 февр. 2022 18:15:19,315  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:15:19,315  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:19,322  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 92] for request #92
+17 февр. 2022 18:15:19,324  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 90] resumed after userInteraction: [null, null]
+17 февр. 2022 18:15:19,325  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 90] finished
+17 февр. 2022 18:15:19,325  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 90] for request #90
+17 февр. 2022 18:15:19,325  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 91] for request #91
+17 февр. 2022 18:15:19,325  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 91]
+17 февр. 2022 18:15:19,327  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 91] finished
+17 февр. 2022 18:15:19,327  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 91] for request #91
+17 февр. 2022 18:15:19,327  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 92] for request #92
+17 февр. 2022 18:15:19,327  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 92]
+17 февр. 2022 18:15:19,343  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 92] finished
+17 февр. 2022 18:15:19,344  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 92] for request #92
+17 февр. 2022 18:15:22,308  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 93] for request #93
+17 февр. 2022 18:15:22,308  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 93] for request #93
+17 февр. 2022 18:15:22,308  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 93]
+17 февр. 2022 18:15:22,311  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 94] for request #94
+17 февр. 2022 18:15:22,314  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 93] finished
+17 февр. 2022 18:15:22,314  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 93] for request #93
+17 февр. 2022 18:15:22,314  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 94] for request #94
+17 февр. 2022 18:15:22,314  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 94]
+17 февр. 2022 18:15:22,343  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 94] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:15:22,361  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 94] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:15:22,404  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 95] for request #95
+17 февр. 2022 18:15:22,406  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:22,406  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:22,406  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:15:22,406  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:15:22,406  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:24,712  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:24,712  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:24,713  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:15:24,714  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@7667fbe4
+17 февр. 2022 18:15:24,716  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:15:24,716  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:24,734  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 96] for request #96
+17 февр. 2022 18:15:24,735  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 94] resumed after userInteraction: [null, null]
+17 февр. 2022 18:15:24,737  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 94] finished
+17 февр. 2022 18:15:24,737  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 94] for request #94
+17 февр. 2022 18:15:24,737  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 95] for request #95
+17 февр. 2022 18:15:24,737  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 95]
+17 февр. 2022 18:15:24,744  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 95] finished
+17 февр. 2022 18:15:24,744  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 95] for request #95
+17 февр. 2022 18:15:24,744  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 96] for request #96
+17 февр. 2022 18:15:24,745  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 96]
+17 февр. 2022 18:15:24,768  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 96] finished
+17 февр. 2022 18:15:24,768  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 96] for request #96
+17 февр. 2022 18:15:26,737  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 97] for request #97
+17 февр. 2022 18:15:26,737  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 97] for request #97
+17 февр. 2022 18:15:26,737  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 97]
+17 февр. 2022 18:15:26,739  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 97] finished
+17 февр. 2022 18:15:26,739  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 97] for request #97
+17 февр. 2022 18:15:27,639  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 98] for request #98
+17 февр. 2022 18:15:27,639  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 98] for request #98
+17 февр. 2022 18:15:27,640  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 98]
+17 февр. 2022 18:15:27,657  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 98] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:15:27,677  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 98] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:15:27,713  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 99] for request #99
+17 февр. 2022 18:15:27,714  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:27,715  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:27,715  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:15:27,716  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:15:27,716  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:29,110  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:29,111  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:29,111  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:15:29,111  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@6b85c29c
+17 февр. 2022 18:15:29,112  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:15:29,112  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:29,117  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 98] resumed after userInteraction: [null, null]
+17 февр. 2022 18:15:29,117  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 100] for request #100
+17 февр. 2022 18:15:29,118  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 98] finished
+17 февр. 2022 18:15:29,118  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 98] for request #98
+17 февр. 2022 18:15:29,118  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 99] for request #99
+17 февр. 2022 18:15:29,118  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 99]
+17 февр. 2022 18:15:29,120  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 99] finished
+17 февр. 2022 18:15:29,120  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 99] for request #99
+17 февр. 2022 18:15:29,120  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 100] for request #100
+17 февр. 2022 18:15:29,121  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 100]
+17 февр. 2022 18:15:29,136  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 100] finished
+17 февр. 2022 18:15:29,136  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 100] for request #100
+17 февр. 2022 18:15:36,139  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 101] for request #101
+17 февр. 2022 18:15:36,139  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 101] for request #101
+17 февр. 2022 18:15:36,140  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 101]
+17 февр. 2022 18:15:36,142  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 102] for request #102
+17 февр. 2022 18:15:36,145  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 101] finished
+17 февр. 2022 18:15:36,145  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 101] for request #101
+17 февр. 2022 18:15:36,145  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 102] for request #102
+17 февр. 2022 18:15:36,145  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 102]
+17 февр. 2022 18:15:36,171  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 102] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:15:36,186  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 102] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:15:36,221  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 103] for request #103
+17 февр. 2022 18:15:36,224  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:36,224  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:36,224  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:15:36,225  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:15:36,225  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:15:37,776  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:37,776  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:37,777  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:15:37,778  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@7ed9766e
+17 февр. 2022 18:15:37,779  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:15:37,780  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:15:37,803  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 104] for request #104
+17 февр. 2022 18:15:37,806  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 102] resumed after userInteraction: [null, null]
+17 февр. 2022 18:15:37,807  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 102] finished
+17 февр. 2022 18:15:37,807  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 102] for request #102
+17 февр. 2022 18:15:37,807  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 103] for request #103
+17 февр. 2022 18:15:37,807  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 103]
+17 февр. 2022 18:15:37,813  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 103] finished
+17 февр. 2022 18:15:37,814  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 103] for request #103
+17 февр. 2022 18:15:37,814  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 104] for request #104
+17 февр. 2022 18:15:37,814  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 104]
+17 февр. 2022 18:15:37,844  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 104] finished
+17 февр. 2022 18:15:37,844  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 104] for request #104
+17 февр. 2022 18:15:47,938  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 105] for request #105
+17 февр. 2022 18:15:47,938  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 105] for request #105
+17 февр. 2022 18:15:47,938  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 105]
+17 февр. 2022 18:15:47,941  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 105] finished
+17 февр. 2022 18:15:47,941  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 105] for request #105
+17 февр. 2022 18:16:23,452  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 106] for request #106
+17 февр. 2022 18:16:23,452  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 106] for request #106
+17 февр. 2022 18:16:23,452  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 106]
+17 февр. 2022 18:16:23,455  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 106] finished
+17 февр. 2022 18:16:23,455  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 106] for request #106
+17 февр. 2022 18:17:03,414  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 107] for request #107
+17 февр. 2022 18:17:03,414  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 107] for request #107
+17 февр. 2022 18:17:03,414  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 107]
+17 февр. 2022 18:17:03,458  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 107] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:17:03,474  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 107] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:17:03,513  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 108] for request #108
+17 февр. 2022 18:17:03,520  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:17:03,520  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:17:03,522  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:17:03,523  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:17:03,523  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:17:04,867  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:17:04,867  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:17:04,867  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:17:04,868  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@23fb5ba5
+17 февр. 2022 18:17:04,868  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:17:04,868  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:17:04,877  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 109] for request #109
+17 февр. 2022 18:17:04,879  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 107] resumed after userInteraction: [null, null]
+17 февр. 2022 18:17:04,879  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 107] finished
+17 февр. 2022 18:17:04,879  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 107] for request #107
+17 февр. 2022 18:17:04,879  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 108] for request #108
+17 февр. 2022 18:17:04,879  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 108]
+17 февр. 2022 18:17:04,881  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 108] finished
+17 февр. 2022 18:17:04,881  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 108] for request #108
+17 февр. 2022 18:17:04,881  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 109] for request #109
+17 февр. 2022 18:17:04,881  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 109]
+17 февр. 2022 18:17:04,897  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 109] finished
+17 февр. 2022 18:17:04,898  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 109] for request #109
+17 февр. 2022 18:17:16,410  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 110] for request #110
+17 февр. 2022 18:17:16,410  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 110] for request #110
+17 февр. 2022 18:17:16,410  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 110]
+17 февр. 2022 18:17:16,415  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 110] finished
+17 февр. 2022 18:17:16,415  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 110] for request #110
+17 февр. 2022 18:24:04,727  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:24:04,728  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:24:04,729  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+17 февр. 2022 18:24:04,792  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+17 февр. 2022 18:24:04,792  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:24:10,442  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:24:10,442  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:24:10,442  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+17 февр. 2022 18:24:10,603  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 18:24:10,603  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+17 февр. 2022 18:24:10,603  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:24:10,713  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.persons, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:24:10,713  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.persons, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:24:10,714  INFO PausableInvocationsLogger - Run invocation: [f: Training.persons, m: gainedFocus, rq: 0]
+17 февр. 2022 18:24:10,716  INFO PausableInvocationsLogger - Invocation [f: Training.persons, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:24:10,716  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.persons, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:24:12,051  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.persons, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:24:12,051  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.persons, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:24:12,052  INFO PausableInvocationsLogger - Run invocation: [f: Training.persons, m: executeEventAction, rq: 1]
+17 февр. 2022 18:24:12,079  INFO PausableInvocationsLogger - Interaction [f: Training.persons, m: executeEventAction, rq: 1] called pauseForUserInteraction: [FormClientAction[modalitType: DOCKED_MODAL]]
+17 февр. 2022 18:24:12,130  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:24:12,130  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:24:12,139  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: gainedFocus, rq: 0]
+17 февр. 2022 18:24:12,139  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:24:12,139  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:24:19,239  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:24:19,239  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:24:19,239  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: executeEventAction, rq: 1]
+17 февр. 2022 18:24:19,255  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:24:19,255  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:24:24,799  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:24:24,799  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:24:24,799  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: executeEventAction, rq: 2]
+17 февр. 2022 18:24:24,804  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: executeEventAction, rq: 2] finished
+17 февр. 2022 18:24:24,804  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:24:28,273  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 18:24:28,273  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 18:24:28,273  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: executeEventAction, rq: 3]
+17 февр. 2022 18:24:28,277  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: executeEventAction, rq: 3] finished
+17 февр. 2022 18:24:28,277  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 18:24:33,846  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: executeEventAction, rq: 4] for request #4
+17 февр. 2022 18:24:33,847  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: executeEventAction, rq: 4] for request #4
+17 февр. 2022 18:24:33,847  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: executeEventAction, rq: 4]
+17 февр. 2022 18:24:33,859  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: executeEventAction, rq: 4] finished
+17 февр. 2022 18:24:33,859  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: executeEventAction, rq: 4] for request #4
+17 февр. 2022 18:24:37,503  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:24:37,503  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:24:37,504  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: executeEventAction, rq: 5]
+17 февр. 2022 18:24:37,518  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: executeEventAction, rq: 5] finished
+17 февр. 2022 18:24:37,519  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:24:40,767  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: executeEventAction, rq: 6] for request #6
+17 февр. 2022 18:24:40,767  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: executeEventAction, rq: 6] for request #6
+17 февр. 2022 18:24:40,767  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: executeEventAction, rq: 6]
+17 февр. 2022 18:24:40,773  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: executeEventAction, rq: 6] finished
+17 февр. 2022 18:24:40,773  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: executeEventAction, rq: 6] for request #6
+17 февр. 2022 18:24:43,732  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:24:43,732  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:24:43,733  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: executeEventAction, rq: 7]
+17 февр. 2022 18:24:43,741  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: executeEventAction, rq: 7] finished
+17 февр. 2022 18:24:43,741  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:24:57,231  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+17 февр. 2022 18:24:57,231  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+17 февр. 2022 18:24:57,231  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+17 февр. 2022 18:24:57,315  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 18:24:57,315  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+17 февр. 2022 18:24:57,315  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+17 февр. 2022 18:25:00,551  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+17 февр. 2022 18:25:00,551  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+17 февр. 2022 18:25:00,551  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 3]
+17 февр. 2022 18:25:00,595  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 3] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 18:25:00,595  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 3] finished
+17 февр. 2022 18:25:00,595  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+17 февр. 2022 18:25:03,630  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: gainedFocus, rq: 8] for request #8
+17 февр. 2022 18:25:03,631  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: gainedFocus, rq: 8] for request #8
+17 февр. 2022 18:25:03,631  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: gainedFocus, rq: 8]
+17 февр. 2022 18:25:03,631  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: gainedFocus, rq: 8] finished
+17 февр. 2022 18:25:03,631  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: gainedFocus, rq: 8] for request #8
+17 февр. 2022 18:25:08,842  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+17 февр. 2022 18:25:08,843  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+17 февр. 2022 18:25:08,843  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 4]
+17 февр. 2022 18:25:08,872  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 4] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 18:25:08,872  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 4] finished
+17 февр. 2022 18:25:08,873  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+17 февр. 2022 18:31:40,136  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:31:40,136  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:31:40,137  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+17 февр. 2022 18:31:40,145  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+17 февр. 2022 18:31:40,145  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:31:44,225  INFO PausableInvocationsLogger - Interaction [f: Training.persons, m: executeEventAction, rq: 1] was interrupted
+17 февр. 2022 18:31:47,478  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:31:47,478  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:31:47,478  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+17 февр. 2022 18:31:47,519  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 18:31:47,519  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+17 февр. 2022 18:31:47,519  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:31:47,673  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:31:47,673  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:31:47,673  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 0]
+17 февр. 2022 18:31:47,675  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:31:47,675  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:31:59,710  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:31:59,710  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:31:59,711  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 1]
+17 февр. 2022 18:31:59,729  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:31:59,729  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:32:38,089  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:32:38,090  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:32:38,090  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 2]
+17 февр. 2022 18:32:38,108  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 18:32:38,111  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 2] finished
+17 февр. 2022 18:32:38,111  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:32:38,112  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 18:32:38,112  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 3]
+17 февр. 2022 18:32:38,157  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 3] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:32:38,182  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 3] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: Ivanov Ivan Ivanovich, ext: false]]
+17 февр. 2022 18:32:38,200  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 4] for request #4
+17 февр. 2022 18:32:39,330  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 3] resumed after userInteraction: [null, null]
+17 февр. 2022 18:32:39,331  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 3] finished
+17 февр. 2022 18:32:39,331  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 18:32:39,331  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 4] for request #4
+17 февр. 2022 18:32:39,331  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 4]
+17 февр. 2022 18:32:39,359  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 4] finished
+17 февр. 2022 18:32:39,359  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 4] for request #4
+17 февр. 2022 18:32:44,373  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:32:44,373  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:32:44,373  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 5]
+17 февр. 2022 18:32:44,376  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 6] for request #6
+17 февр. 2022 18:32:44,376  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 5] finished
+17 февр. 2022 18:32:44,376  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:32:44,376  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 6] for request #6
+17 февр. 2022 18:32:44,376  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 6]
+17 февр. 2022 18:32:44,411  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 6] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:32:44,443  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 6] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:32:44,522  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:32:44,524  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:32:44,524  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:32:44,525  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:32:44,526  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:32:44,526  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:32:47,539  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:32:47,539  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:32:47,539  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:32:47,542  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@75838ae3
+17 февр. 2022 18:32:47,546  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:32:47,546  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:32:47,566  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 8] for request #8
+17 февр. 2022 18:32:47,571  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 6] resumed after userInteraction: [null, null]
+17 февр. 2022 18:32:47,572  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 6] finished
+17 февр. 2022 18:32:47,573  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 6] for request #6
+17 февр. 2022 18:32:47,573  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:32:47,573  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 7]
+17 февр. 2022 18:32:47,578  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 7] finished
+17 февр. 2022 18:32:47,578  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:32:47,579  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 8] for request #8
+17 февр. 2022 18:32:47,579  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 8]
+17 февр. 2022 18:32:47,602  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 8] finished
+17 февр. 2022 18:32:47,602  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 8] for request #8
+17 февр. 2022 18:32:54,462  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 9] for request #9
+17 февр. 2022 18:32:54,462  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 9] for request #9
+17 февр. 2022 18:32:54,462  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 9]
+17 февр. 2022 18:32:54,466  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 10] for request #10
+17 февр. 2022 18:32:54,470  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 9] finished
+17 февр. 2022 18:32:54,470  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 9] for request #9
+17 февр. 2022 18:32:54,470  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 10] for request #10
+17 февр. 2022 18:32:54,470  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 10]
+17 февр. 2022 18:32:54,503  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 10] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:32:54,517  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 10] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: Ivanov  Ivanovich, ext: false]]
+17 февр. 2022 18:32:54,528  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 11] for request #11
+17 февр. 2022 18:32:56,441  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 10] resumed after userInteraction: [null, null]
+17 февр. 2022 18:32:56,442  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 10] finished
+17 февр. 2022 18:32:56,442  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 10] for request #10
+17 февр. 2022 18:32:56,442  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 11] for request #11
+17 февр. 2022 18:32:56,442  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 11]
+17 февр. 2022 18:32:56,462  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 11] finished
+17 февр. 2022 18:32:56,462  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 11] for request #11
+17 февр. 2022 18:33:21,383  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 12] for request #12
+17 февр. 2022 18:33:21,383  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 12] for request #12
+17 февр. 2022 18:33:21,383  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 12]
+17 февр. 2022 18:33:21,387  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 13] for request #13
+17 февр. 2022 18:33:21,388  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 12] finished
+17 февр. 2022 18:33:21,388  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 12] for request #12
+17 февр. 2022 18:33:21,389  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 13] for request #13
+17 февр. 2022 18:33:21,389  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 13]
+17 февр. 2022 18:33:21,417  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 13] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:33:21,426  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 13] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: , ext: false]]
+17 февр. 2022 18:33:21,436  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 14] for request #14
+17 февр. 2022 18:33:23,616  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 13] resumed after userInteraction: [null, null]
+17 февр. 2022 18:33:23,616  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 13] finished
+17 февр. 2022 18:33:23,616  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 13] for request #13
+17 февр. 2022 18:33:23,616  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 14] for request #14
+17 февр. 2022 18:33:23,616  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 14]
+17 февр. 2022 18:33:23,638  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 14] finished
+17 февр. 2022 18:33:23,638  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 14] for request #14
+17 февр. 2022 18:33:26,914  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 15] for request #15
+17 февр. 2022 18:33:26,914  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 15] for request #15
+17 февр. 2022 18:33:26,914  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 15]
+17 февр. 2022 18:33:26,921  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 16] for request #16
+17 февр. 2022 18:33:26,930  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 15] finished
+17 февр. 2022 18:33:26,930  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 15] for request #15
+17 февр. 2022 18:33:26,931  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 16] for request #16
+17 февр. 2022 18:33:26,933  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 16]
+17 февр. 2022 18:33:26,987  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 16] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:33:26,995  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 16] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: true, ext: false]]
+17 февр. 2022 18:33:27,003  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 17] for request #17
+17 февр. 2022 18:33:28,023  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 16] resumed after userInteraction: [null, null]
+17 февр. 2022 18:33:28,024  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 16] finished
+17 февр. 2022 18:33:28,024  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 16] for request #16
+17 февр. 2022 18:33:28,024  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 17] for request #17
+17 февр. 2022 18:33:28,024  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 17]
+17 февр. 2022 18:33:28,043  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 17] finished
+17 февр. 2022 18:33:28,044  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 17] for request #17
+17 февр. 2022 18:33:49,309  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 18] for request #18
+17 февр. 2022 18:33:49,310  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 18] for request #18
+17 февр. 2022 18:33:49,310  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 18]
+17 февр. 2022 18:33:49,313  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 18] finished
+17 февр. 2022 18:33:49,313  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 18] for request #18
+17 февр. 2022 18:37:55,943  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:37:55,944  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:37:55,946  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+17 февр. 2022 18:37:56,022  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+17 февр. 2022 18:37:56,022  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:37:59,754  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:37:59,754  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:37:59,754  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+17 февр. 2022 18:37:59,978  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 18:37:59,978  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+17 февр. 2022 18:37:59,978  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:38:00,218  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:38:00,218  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:38:00,219  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 0]
+17 февр. 2022 18:38:00,222  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:38:00,222  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:38:32,874  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:38:32,874  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:38:32,875  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 1]
+17 февр. 2022 18:38:32,879  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:38:32,887  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:38:32,887  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:38:32,887  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:38:32,887  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 2]
+17 февр. 2022 18:38:32,932  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 2] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:38:32,990  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 2] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:38:33,059  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 18:38:33,062  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:38:33,062  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:38:33,062  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:38:33,063  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:38:33,063  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:45:50,408  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:45:50,408  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:45:50,408  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:45:50,409  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@5d24032b
+17 февр. 2022 18:45:50,411  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:45:50,411  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:45:50,420  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 4] for request #4
+17 февр. 2022 18:45:50,423  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 2] resumed after userInteraction: [null, null]
+17 февр. 2022 18:45:50,424  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 2] finished
+17 февр. 2022 18:45:50,424  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 2] for request #2
+17 февр. 2022 18:45:50,424  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 18:45:50,424  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 3]
+17 февр. 2022 18:45:50,428  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 3] finished
+17 февр. 2022 18:45:50,428  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 3] for request #3
+17 февр. 2022 18:45:50,428  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 4] for request #4
+17 февр. 2022 18:45:50,428  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 4]
+17 февр. 2022 18:45:50,462  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 4] finished
+17 февр. 2022 18:45:50,462  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 4] for request #4
+17 февр. 2022 18:46:23,805  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:46:23,805  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:46:23,805  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 5]
+17 февр. 2022 18:46:23,810  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 6] for request #6
+17 февр. 2022 18:46:23,815  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 5] finished
+17 февр. 2022 18:46:23,815  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 5] for request #5
+17 февр. 2022 18:46:23,815  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 6] for request #6
+17 февр. 2022 18:46:23,815  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 6]
+17 февр. 2022 18:46:23,876  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 6] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+17 февр. 2022 18:46:23,913  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 6] called pauseForUserInteraction: [FormClientAction[modalitType: MODAL]]
+17 февр. 2022 18:46:23,972  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:46:23,973  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:46:23,973  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:46:23,973  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: gainedFocus, rq: 0]
+17 февр. 2022 18:46:23,974  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:46:23,974  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:46:42,617  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:46:42,617  INFO PausableInvocationsLogger - Acquired request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:46:42,617  INFO PausableInvocationsLogger - Run invocation: [f: System.exception, m: executeEventAction, rq: 1]
+17 февр. 2022 18:46:42,617  INFO PausableInvocationsLogger - Interaction [f: System.exception, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@3fff834
+17 февр. 2022 18:46:42,618  INFO PausableInvocationsLogger - Invocation [f: System.exception, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:46:42,618  INFO PausableInvocationsLogger - Releasing request lock for [f: System.exception, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:46:42,625  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 8] for request #8
+17 февр. 2022 18:46:42,626  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: executeEventAction, rq: 6] resumed after userInteraction: [null, null]
+17 февр. 2022 18:46:42,627  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 6] finished
+17 февр. 2022 18:46:42,627  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 6] for request #6
+17 февр. 2022 18:46:42,627  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:46:42,628  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 7]
+17 февр. 2022 18:46:42,631  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 7] finished
+17 февр. 2022 18:46:42,631  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 7] for request #7
+17 февр. 2022 18:46:42,631  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 8] for request #8
+17 февр. 2022 18:46:42,631  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 8]
+17 февр. 2022 18:46:42,655  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 8] finished
+17 февр. 2022 18:46:42,655  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 8] for request #8
+17 февр. 2022 18:46:44,971  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: executeEventAction, rq: 9] for request #9
+17 февр. 2022 18:46:44,971  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: executeEventAction, rq: 9] for request #9
+17 февр. 2022 18:46:44,971  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: executeEventAction, rq: 9]
+17 февр. 2022 18:46:44,975  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: executeEventAction, rq: 9] finished
+17 февр. 2022 18:46:44,975  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: executeEventAction, rq: 9] for request #9
+17 февр. 2022 18:50:19,629  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:50:19,630  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:50:19,631  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+17 февр. 2022 18:50:19,707  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+17 февр. 2022 18:50:19,707  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+17 февр. 2022 18:50:23,009  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:50:23,009  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:50:23,009  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+17 февр. 2022 18:50:23,127  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+17 февр. 2022 18:50:23,127  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+17 февр. 2022 18:50:23,127  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+17 февр. 2022 18:50:23,216  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.persons, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:50:23,216  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.persons, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:50:23,216  INFO PausableInvocationsLogger - Run invocation: [f: Training.persons, m: gainedFocus, rq: 0]
+17 февр. 2022 18:50:23,217  INFO PausableInvocationsLogger - Invocation [f: Training.persons, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:50:23,218  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.persons, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:50:24,445  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.persons, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:50:24,445  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.persons, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:50:24,445  INFO PausableInvocationsLogger - Run invocation: [f: Training.persons, m: executeEventAction, rq: 1]
+17 февр. 2022 18:50:24,484  INFO PausableInvocationsLogger - Interaction [f: Training.persons, m: executeEventAction, rq: 1] called pauseForUserInteraction: [FormClientAction[modalitType: DOCKED_MODAL]]
+17 февр. 2022 18:50:24,526  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:50:24,526  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:50:24,527  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: gainedFocus, rq: 0]
+17 февр. 2022 18:50:24,528  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: gainedFocus, rq: 0] finished
+17 февр. 2022 18:50:24,528  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: gainedFocus, rq: 0] for request #0
+17 февр. 2022 18:50:27,673  INFO PausableInvocationsLogger - Acquiring request lock for [f: Training.person, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:50:27,673  INFO PausableInvocationsLogger - Acquired request lock for [f: Training.person, m: executeEventAction, rq: 1] for request #1
+17 февр. 2022 18:50:27,674  INFO PausableInvocationsLogger - Run invocation: [f: Training.person, m: executeEventAction, rq: 1]
+17 февр. 2022 18:50:27,684  INFO PausableInvocationsLogger - Interaction [f: Training.person, m: executeEventAction, rq: 1] called pauseForUserInteraction: [MessageClientAction[caption: lsFusion, msg: 1, ext: false]]
+17 февр. 2022 18:50:29,240  INFO PausableInvocationsLogger - Interaction [f: Training.person, m: executeEventAction, rq: 1] resumed after userInteraction: [null]
+17 февр. 2022 18:50:29,240  INFO PausableInvocationsLogger - Invocation [f: Training.person, m: executeEventAction, rq: 1] finished
+17 февр. 2022 18:50:29,241  INFO PausableInvocationsLogger - Releasing request lock for [f: Training.person, m: executeEventAction, rq: 1] for request #1
